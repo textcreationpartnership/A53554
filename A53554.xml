@@ -1,0 +1,1206 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true narrative of the horrid plot and conspiracy of the popish party against the life of His Sacred Majesty, the government and the Protestant religion : with a list of such noblemen, gentlemen and others as were the conspirators, and the head-officers both civil and military that were to effect it / humbly presented to His Most Excellent Majesty by Titus Oates.</title>
+            <author>Oates, Titus, 1649-1705.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 158 KB of XML-encoded text transcribed from 42 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A53554</idno>
+            <idno type="STC">Wing O59</idno>
+            <idno type="STC">ESTC R26889</idno>
+            <idno type="EEBO-CITATION">09570912</idno>
+            <idno type="OCLC">ocm 09570912</idno>
+            <idno type="VID">43679</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A53554)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 43679)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1336:31)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true narrative of the horrid plot and conspiracy of the popish party against the life of His Sacred Majesty, the government and the Protestant religion : with a list of such noblemen, gentlemen and others as were the conspirators, and the head-officers both civil and military that were to effect it / humbly presented to His Most Excellent Majesty by Titus Oates.</title>
+                  <author>Oates, Titus, 1649-1705.</author>
+               </titleStmt>
+               <extent>[9], 68 p. : port.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Parkhurst and Thomas Cockerill,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1679.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Popish Plot, 1678.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="frontispiece">
+            <pb facs="tcp:43679:3"/>
+            <p>
+               <figure>
+                  <figDesc>portrait of Titus Oates</figDesc>
+                  <head>
+                     <hi>TITUS OATES D. D.</hi> the firſt diſcoverer of the Popiſh Plott.</head>
+               </figure>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:43679:3"/>
+            <p>A TRUE NARRATIVE OF THE Horrid PLOT AND CONSPIRACY OF THE POPISH PARTY Againſt the LIFE of His Sacred Majeſty, THE GOVERNMENT, AND THE <hi>Proteſtant Religion:</hi>
+            </p>
+            <p>With a LIST of ſuch NOBLEMEN, GENTLEMEN, and others, as were the CONSPIRATORS: And the HEAD-OFFICERS both Civil and Military, that were to Effect it.</p>
+            <p>
+               <hi>Publiſhed by the Order of the Right Honourable the Lords Spiritual and Temporal in PARLIAMENT Aſſembled.</hi>
+            </p>
+            <p>Humbly Preſented to His Moſt Excellent MAJESTY.</p>
+            <p>By <hi>TIT<g ref="char:V">Ʋ</g>S OTES,</hi> D. D.</p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Thomas Parkhurſt,</hi> and <hi>Thomas Cockerill,</hi> at the Bible and Three Crowns in <hi>Cheapſide</hi> near <hi>Mercers Chappel,</hi> and at the Three Legs in the <hi>Poultrey.</hi> MDCLXXIX.</p>
+            <pb facs="tcp:43679:1"/>
+            <pb facs="tcp:43679:1"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+         <div type="license">
+            <pb facs="tcp:43679:2"/>
+            <head>Die Mercurii <hi>9<hi rend="sup">o</hi>
+               </hi> Aprilis, <hi>1679.</hi>
+            </head>
+            <p>UPon Report made by the Earl of <hi>Clarendon</hi> from the Lords Committees for Examining Matters relating to the Diſcovery of the late Horrid Conſpiracy, That Mr. <hi>Titus Oates</hi> complains, That Mr. <hi>Baſſet</hi> hath not given him ſatisfaction for the Printing and Publiſh<g ref="char:EOLhyphen"/>ing his Narrative of the ſaid Conſpiracy imperfectly, and deſires that he may Reprint his own Narrative thereof; which the ſaid Lords Committees judg to be Reaſonable: It is Ordered by the Lords Spiritual and Temporal in Parliament Aſſembled, That the ſaid <hi>Titus Oates</hi> be, and is hereby Authorized to Print a Perfect Copy of his own Narrative of the ſaid Conſpiracy.</p>
+            <closer>
+               <signed>
+                  <hi>Jo. Brown,</hi> Cleric. Parliamentor.</signed>
+            </closer>
+         </div>
+         <div type="license">
+            <p>
+               <hi>BY virtue of this Order I appoint</hi> Thomas Parkhurſt <hi>and</hi> Thomas Cockerill, <hi>Citizens and Stationers of</hi> London, <hi>to Print this Narrative, containing Eighty one Paragraphs.</hi>
+            </p>
+            <closer>
+               <signed>TITUS OTES. <hi>April</hi> 10. 1679.</signed>
+            </closer>
+            <pb facs="tcp:43679:2"/>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:43679:4"/>
+            <pb facs="tcp:43679:4" rendition="simple:additions"/>
+            <head>TO HIS SACRED MAJESTY CHARLES the II. By the Grace of God Of <hi>Great-Britain, France</hi> and <hi>Ireland</hi> KING, Defender of the Faith.</head>
+            <opener>
+               <salute>GREAT SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>HIS Narrative of the preſent Horrid Plot againſt Your Majeſty and Government, which was firſt heard, and narrowly diſcuſſed before Your Sacred Majeſty and Council, and afterwards by Both Houſes of Parlia<g ref="char:EOLhyphen"/>ment, with univerſal aſſent to the power of Truth herein, is at laſt to appear abroad, for the ſatiſ<g ref="char:EOLhyphen"/>faction of theſe Nations, and <hi>Europe</hi> perhaps, touching the myſtery and conſequence of ſuch Deſigns. I hope I have good equity on my ſide, to preſume to dedicate the ſame to Your Royal Name and Patro<g ref="char:EOLhyphen"/>nage, and to no other; becauſe I am well aſſured, both the <hi>riſe</hi> and <hi>progreſs</hi> thereof, hath wholly ſprung from an inbred indelible love and loyalty to Your Majeſty and Kingdoms, as its <hi>ſupport</hi> and <hi>ſucceſs</hi> to be owing (under Gods extraordinary and miraculous appearance for his people in its defence) to Your Majeſties Gracious pardon of ſeveral human frailties in the management.</p>
+            <p>Great and many are the Arts and Hoverings that have been, and may yet be uſed in vain both at home and abroad, to ſuppreſs and traduce the Evidence, by thoſe who are more zealous and induſtri<g ref="char:EOLhyphen"/>ous not to be thought or ſuſpected, rather than really not to be ve<g ref="char:EOLhyphen"/>ry Traytors and Rebels againſt their King and Country; whoſe many paſt Treaſons and Encroachments upon ſeveral Princes, for theſe laſt Thouſand years in the World, will prove their inclinations for fu<g ref="char:EOLhyphen"/>ture,
+<pb facs="tcp:43679:5"/>whereof there are as many tragical inſtances againſt Your Ma<g ref="char:EOLhyphen"/>jeſties own Family and Perſon, within freſh memory (and to be made out by new proofs out of their own mouths and Records, if need) as againſt any other of Gods Anointing and Appointment.</p>
+            <p>Your Grandfather King <hi>James,</hi> though he eſcaped their <hi>Powder,</hi> is well known not to have eſcaped their <hi>Poyſon.</hi> Your other Grandfa<g ref="char:EOLhyphen"/>ther, <hi>Henry</hi> the Fourth of <hi>France,</hi> was baſely and villainouſly ſtabbed in the Heart, which he had deſigned and bequeathed after his death unto them, notwithſtanding all the Indulgences and Immunities that the heart of man could wiſh or deſire, which he had granted them in his life. Who beſides <hi>theſe,</hi> were the firſt Authors and contrivers of the late unnatural War, by their known diabolical art of inflaming Parties and Paſſions againſt each other, and of Your Royal Fathers unſpeakable Sufferings and barbarous Uſage? It was <hi>theſe</hi> that brought Him to His end, and fouriſhed Swords, and triumphed over his dead Body, whom they durſt not approach when living. What ſhall I ſay of <hi>Him</hi> who then cryed out, <hi>Now is the Enemy of God and of his Church fallen?</hi> I believe Your Majeſty hath been well-informed of the Trayterous Executioners, but hardly at all of the <hi>Putney</hi>-Projectors, who were in moſt, if not all the Councels that contrived his ruine. What broke the <hi>
+                  <g ref="char:V">Ʋ</g>xbridge</hi>-Treaty, but the <hi>Romiſh</hi> Intereſt and Policy? Who continued to baffle all deſigns of peace and ſettlement to this Nation, and proſperity to Your Majeſties Family, but thoſe Incendia<g ref="char:EOLhyphen"/>ries? It may not be inconvenient to remind with what zeal and in<g ref="char:EOLhyphen"/>tereſt they did perſwade the <hi>Scots</hi> in 1650, to impoſe that upon Your Majeſty which Your Royal Law hath forbidden others; for the ef<g ref="char:EOLhyphen"/>fecting whereof, ſome Thouſands of pounds were ſpent and given by them. After Your Majeſties eſcape at <hi>Worceſter,</hi> how did they, above all men, endeavour to betray and ſacrifice Your Majeſty into the hands of Your Enemies? And who was it that was to pay the Thou<g ref="char:EOLhyphen"/>ſand pound promiſed for Your being diſcovered and taken, but Father <hi>Joſeph Simmonds,</hi> and Father <hi>Carleton Compton,</hi> both Jeſuits? It's true, that one or two of the <hi>Komiſh</hi> perſwaſion, amongſt many loyal and faithful Proteſtants, male and female, might then have contributed to Your Majeſties deliverance: But have not ſuch been well leſſened and reproached, and called Fools by their own party for this grain of Loyalty, more owing to their <hi>Engliſh</hi> Blood than <hi>Romiſh</hi> Prin<g ref="char:EOLhyphen"/>ciples?</p>
+            <p>The Popiſh Lord is not forgotten, or unknown, who brought a Petition to the late Regicides and Uſurpers, ſigned by about Five hundred principal Papiſts in <hi>England;</hi> wherein was promiſed upon condition of a Toleration of the Popiſh Religion here by a Law, their joint reſolution to abjure and exclude the Family of the <hi>Stu<g ref="char:EOLhyphen"/>arts</hi>
+               <pb facs="tcp:43679:5"/>for ever, from their, undoubted right to the Crown. Who more diſheartned the Loyalty and patience of your beſt Subjects, than their confident Scriblers, <hi>White</hi> and others? And <hi>Milton</hi> was a known frequenter of a Popiſh Club. Who more forward to ſet up <hi>Crom<g ref="char:EOLhyphen"/>well,</hi> and to put the Crown of our Kings upon his head, than they? Give me leave to tell Your Majeſty, that his new fangled Government was contrived by a Popiſh Prieſt, and <hi>Lambert,</hi> a Papiſt for above theſe Thirty years. Who betrayed Your Majeſties Secrets and Coun<g ref="char:EOLhyphen"/>cels during your Exile, but they, even the <hi>Benedictine</hi> Monks, where<g ref="char:EOLhyphen"/>of a whole Convent was maintained with a large Annuity by the late Uſurper for ſuch uſe and purpoſe? And he<note n="*" place="bottom">Manning.</note> that was caught and executed by Your Majeſties Juſtice for ſuch treachery, was of the ſame Red-Letter, and had Maſſes ſung for him after his death, as an uſual Reward and Plaiſter. After Your Majeſties eſcape from <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> what promiſes did they make to <hi>Cromwell,</hi> to perſwade the <hi>French</hi> King for Your baniſhment out of <hi>France?</hi> and what intereſt they made uſe of in order thereunto, can be made appear to their diſgrace. I ſhall leave it to Your Majeſty to call to mind their uſage of your Royal Perſon when in <hi>Flanders:</hi> And a Noble Peer ſurviving, is able to ſpeak aloud what was there intended againſt You, to pre<g ref="char:EOLhyphen"/>vent Your Majeſty from Your right to Reign over us. The preſent Relation upon Oath, and moſt true to a tittle, and Sir <hi>Edmondbury Godfrey</hi>'s uſage, is ſufficient to convince all unbyaſſed Judges, how lit<g ref="char:EOLhyphen"/>tle they have flagged or degenerated from their wonted helliſh Princi<g ref="char:EOLhyphen"/>ples and Natures.</p>
+            <p>How little therefore the Criminals concerned in this Plot deſerve from Your Majeſty, the World will better judg, if they will but conſider how graciouſly Your Majeſty hath dealt with them, and con<g ref="char:EOLhyphen"/>nived at them, while the rigour of the Law was let looſe upon Your other diſſenting Subjects, who yet continued more quiet and loyal under their Preſſures and Provocations, than theſe under Favours and Careſſes. Hath not Your Majeſty hazarded the hearts and affections of Your beſt Subjects, and much of Royal Honour, in appearing for the late Indulgence with fruſtration, to win and oblige, if poſſible, theſe everlaſting holy Cut-throats?</p>
+            <p>But what Arguments of Clemency and Grace can perſwade them to be true to their Natural, who profeſs Allegiance out of Conſci<g ref="char:EOLhyphen"/>ence to a Foreign contrary Soveraign? Or how can Your Majeſty ex<g ref="char:EOLhyphen"/>pect Truth and Sincerity, where Treaſons and Lyes are virtues and merits? They are by an orderly Conſpiracy wholly governed by Prieſts, their Prieſts by their Biſhops, and their Biſhops by their Popes; the ſum of whoſe Religion, or ungodly Ambition rather,
+<pb facs="tcp:43679:6"/>or that which we call <hi>Popery,</hi> conſiſts, in a word, in an Antichriſtian pretence of a Fifth Monarchical Soveraignty over all the Kings and Princes of <hi>Chriſtendom,</hi> as is of late irrefragably demonſtrated by the Right Reverend and Learned Biſhop of <hi>Lincoln;</hi> yea in an higher Uſurpation upon Chriſts eternal and peculiar Soveraignty over mens hearts and judgments, as is likewiſe evinced by another worthy Pen and Sufferer, in his Treatiſe of <hi>the right Soveraign of the heart.</hi> They therefore that brutiſhly and traiterouſly ſurrender their Souls over into implicit ſlavery to an Impoſtor, what Allegiance can they reſerve inviolable with all ſober and true Chriſtians, either to King, or Chriſt, or Conſcience?</p>
+            <p>I queſtion not, Great Sir, but that he in whoſe hands are the hearts of Princes, will in time fully convince Your Majeſty of all their un<g ref="char:EOLhyphen"/>worthy principles and practiſes, and of my integrity too, how ſtrange ſoever ſome open or ſecret <hi>Papiſts,</hi> whom time alſo may diſcover, have endeavoured to repreſent me. Till that time I commit my Cauſe to the moſt Righteous and All-ſeeing Judg, with a reſolution to perſevere through his aſſiſtance in my truth and teſtimony, againſt all diſcouragements or terrors, or blandiſhments either, to the laſt gaſp.</p>
+            <p>And next to Chriſt and the Truth, I ſhall with the utmoſt of breath and power, according to my Oath and Duty, in what place and ſta<g ref="char:EOLhyphen"/>tion ſoever I am, endeavour to be found ever loyal and true to Your Majeſty in all Your Rights and Honours, as all good Subjects and Chriſtians ought, and as I find this Noble and Loyal Parliament are reſolved to be to an hair, or an expreſſion; and therefore cannot for<g ref="char:EOLhyphen"/>bear to pray to God out of my ſincerity and zeal for publick Peace and Concord between King and People, That ſeeing Your Majeſty muſt highly truſt ſome or other for Your neceſſary eaſe and help, that God would put it into Your Majeſties heart more to truſt and rely upon Your Two Houſes of Parliament (who will be moſt true to Your Laws, and conſequently both to You and Your people) than to any ſingle Miniſter or Miniſters whatſoever, unaccountably, who may pretend to more Loyalty, or more comply with any humour, or human frailty of Your Majeſties, but are not true friends either to Your Majeſty, or their Countrey, or themſelves therein; but erect and prefer an Imperial <hi>Paramount</hi> ſelf-end, or luſt, before all; which Your Majeſty by their Art muſt be brought unworthily to ſerve and pro<g ref="char:EOLhyphen"/>mote, to publick diſturbance always, and the confuſion of them<g ref="char:EOLhyphen"/>ſelves and their poſterity, moſt an end, by Gods juſt venge<g ref="char:EOLhyphen"/>ance.</p>
+            <pb facs="tcp:43679:6"/>
+            <p>It's a falſe ſuggeſtion which ſuch Tempters uſe, That a King that rules by <hi>Will,</hi> is more Great, or Glorious, or Strong, than a King that rules by <hi>Law.</hi> The quality of the Retinue beſt proves the State of the Lord; the one being but a King of Slaves, while the other, like God, is a King of kings and hearts. No Prince was ever more abſolute to have what he wiſhed, than Queen <hi>Elizabeth,</hi> who wiſhed for nothing more than the Subjects Rights and Welfare.</p>
+            <p>Your Majeſty being ſo often marked out for deſtruction by theſe Conſpirators, is, and ought to be as great a proof and demonſtration to Your people, That the <hi>Papiſts</hi> themſelves hold You not their friend, as any Act of Parliament againſt Tongues; but eſpecially Your ge<g ref="char:EOLhyphen"/>nerous Reſentment and proportionable Royal Indignation againſt theſe Aſſaſinates of Your Perſon, and Deſtroyers of our Cities, Mur<g ref="char:EOLhyphen"/>derers of Your Subjects, Corrupters of Chriſtianity, and Diſturbers of Mankind.</p>
+            <p>But nothing will make Your Majeſty ſo amiable and acceptable in the eyes of God and man, and Your Name and Memory bleſſed and glorious for ever, as the Copying of the Laws of our Saviour in your Life, by a decent paternal Example before the Sons and Daugh<g ref="char:EOLhyphen"/>ters of Your people, to increaſe the Fear of God and its conſequences amongſt us: it being the chief End and Work of all Supreme Pow<g ref="char:EOLhyphen"/>ers, To ſuppreſs Vice, and encourage Virtue amongſt their Charge, ac<g ref="char:EOLhyphen"/>cording to St. <hi>Paul, Romans</hi> 13, which is beſt done Abroad, when firſt and effectually begun at Home in Your own Houſe and Family, according to the ſame Apoſtle, 1 <hi>Tim.</hi> 3, by Baniſhing all Vicious li<g ref="char:EOLhyphen"/>vers from Your preſence and converſe, and advancing the Virtuous in their ſtead: By the neglect of which principal part of their Royal Truſt and Office, Princes depoſe themſelves, as uſeleſs before God and their own Conſciences, whatever may be their State or Glory in fact, and by human Laws and Power before men.</p>
+            <p>That Your Majeſty therefore may long live to be a great Aſſerter of Laws, of the Laws of Chriſt in Your own Soul, to Your eternal, of the good Laws of this Land, to the temporal high Peace and Feli<g ref="char:EOLhyphen"/>city of Your Majeſty and People, and abound in all the bleſſings of this and the other Life, Health, Grace, Wiſdom, Wealth, Power, and Victory over all your Enemies and Temptations, ſhall be ever the ſtudy and Prayers of</p>
+            <closer>
+               <signed>Your Majeſties Moſt Humble and moſt Loyal Subject and Servant, <hi>TITUS OATES.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="author_to_the_reader">
+            <pb facs="tcp:43679:7"/>
+            <pb facs="tcp:43679:7"/>
+            <opener>
+               <salute>Courteous Reader,</salute>
+            </opener>
+            <p>I Here preſent thee with a ſhort Narrative, or Minutes, till I may find an opportunity to put forth my larger Account and Journal; in which, the whole myſtery of this Helliſh Plot ſhall be more fully laid open. It is true, I did not abſolutely deſign this for the Preſs, had not the daily clamours of theſe exe<g ref="char:EOLhyphen"/>crable votaries for the Romiſh Intereſt ſtirred me up thereunto, by charging the <hi>Proteſtants</hi> with the horrid Deſign; and the indirect courſe of a <hi>Bookſeller,</hi> who falſely and imperfectly preſumed to Print the ſame, to my great wrong and detriment. It was preſented to His Majeſty the Thirteenth of <hi>Auguſt</hi> laſt, by the means and introduction of that worthy and honeſt Gentleman Mr. <hi>Chriſtopher Kirkby;</hi> as likewiſe ſworn upon Oath on the ſixth of <hi>September</hi> following; before Sir <hi>Edmondbury Godfrey</hi> by my ſelf; and the Twenty eighth of the ſame Month, before the Lords and others of His Majeſties moſt Honourable Privy Council: and the proceedings afterwards made upon the ſame, being ſufficiently known, I ſhall not trouble thee with at preſent; but leave the whole to thy Candid conſideration, taking my leave of thee at preſent, and will ever appear</p>
+            <closer>
+               <dateline>
+                  <date>April the <hi>15th. 1679.</hi>
+                  </date>
+               </dateline>
+               <signed>Thy hearty Well-wiſher and Servant in Jeſus Chriſt, <hi>TIT<g ref="char:V">Ʋ</g>S OATES.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:43679:8"/>
+            <pb n="1" facs="tcp:43679:8"/>
+            <head>A True and Exact Narrative OF THE Horrid Plot and Conſpiracy OF THE POPISH PARTY Againſt the LIFE of His Sacred Majeſty, THE GOVERNMENT, AND THE Proteſtant Religion.</head>
+            <div n="1" type="part">
+               <head>Imprimis.</head>
+               <p>
+                  <hi>RIchard Strange,</hi> Provincial, <hi>John Keins, Baſil Lang<g ref="char:EOLhyphen"/>worth, John Fenwick,</hi> and Mr. <hi>Harcourt,</hi> Jeſuits, did write a Treaſonable Letter to one Father <hi>Suiman,</hi> an <hi>Iriſh</hi> Jeſuit at <hi>Madrid,</hi> in the Kingdom of <hi>Spain,</hi> in which was contained their Plotting and Contriving a Rebellion in <hi>Scotland,</hi> of the Presbyterians againſt the Epiſcopal Government: In order to which they had employed one <hi>Matthew Wright,</hi> and <hi>William Morgan,</hi> and one Mr. <hi>Ireland</hi> to go and Preach, under the notion of Presbyterians, and give the diſaffected <hi>Scots,</hi> a true underſtanding of their ſad ſtate and condition, in which they were, by reaſon of the Epiſcopal Tyranny, exer<g ref="char:EOLhyphen"/>ciſed over them: and withall to tell them, they had now a fair opportunity to vindicate their Liberty and Religion; and that it could be done by no other way but by the Sword;
+<pb n="2" facs="tcp:43679:9"/>and that now the King was ſo addicted to his pleaſures, that he would, and could take but little care in that concern. And in the ſaid Letter it was expreſſed, that they had gotten an in<g ref="char:EOLhyphen"/>tereſt in His Royal Highneſs, but they would deal with him as they thought fit; and that they were reſolved to uſe all means to weaken the King of <hi>England</hi>'s Intereſt, by informing his friends of his own intent to betray them into the hands of a Forein Power, to wit, to ſend them to fall by the Sword in the <hi>French</hi> King's Wars, againſt the Confederate Princes, which Letter bore date of <hi>April</hi> 19th. Old Style, 1677. and 29th. New Style.</p>
+            </div>
+            <div n="2" type="part">
+               <head>Item II.</head>
+               <p>That the perſons abovementioned gave the Deponent ten pounds to carry the ſaid Letters to the ſaid Father <hi>Suiman</hi> into the Kingdom of <hi>Spain</hi> to <hi>Madrid;</hi> the ſaid Father <hi>Suiman</hi> being their Procurator general for the Kingdom of <hi>England</hi> and <hi>Ire<g ref="char:EOLhyphen"/>land;</hi> and in order to which meſſage, the Deponent embark<g ref="char:EOLhyphen"/>ed himſelf in the Ship called the <hi>Biſcay</hi> Merchant, whereof <hi>Luke Roch</hi> was then Maſter to go for <hi>Bilbao,</hi> and there took Mules for <hi>Valladolyd,</hi> but ſtaving a day at <hi>Burgos</hi> in <hi>Spain,</hi> the Deponent broke up the ſaid Letters, and found theſe Con<g ref="char:EOLhyphen"/>tents in the ſame.</p>
+            </div>
+            <div n="3" type="part">
+               <head>Item III.</head>
+               <p>That they of the Society of <hi>Jeſus,</hi> in the Engliſh Seminary at St. <hi>Omers,</hi> ſent a miſſion of twelve Students into the King<g ref="char:EOLhyphen"/>dom of <hi>Spain, viz.</hi> eight to <hi>Valladolyd,</hi> and four to <hi>Madrid,</hi> (there being Engliſh Colledges in both places) in order to ſtudy Philoſophy and Divinity; which Miſſioners were ſent by <hi>Richard Aſhby, Richard Peters, Nicholas Blundell,</hi> and <hi>Charles Peters,</hi> as appeared by the Patents of the ſeveral Miſſioners, by which they had power to demand admiſſion in the reſpective Col<g ref="char:EOLhyphen"/>ledges to which they were ſent, which Miſſioners were obliged by the Jeſuits of the Colledges, to renounce their Allegiance
+<pb n="3" facs="tcp:43679:9"/>to His Majeſty of Great <hi>Britain,</hi> in the hearing of the Depo<g ref="char:EOLhyphen"/>nent; and thoſe of <hi>Valladolyd</hi> were taught by <hi>Daniel Armſtrong,</hi> Jeſuit, Miniſter of the Engliſh Colledge at <hi>Valladolyd,</hi> that the ſaid Oath of Allegiance is Heretical, Antichriſtian and Deviliſh; and that <hi>Charles Stuart</hi> the King of <hi>England</hi> is no lawful King, but comes of a ſpurious Race, and that his Father was a <hi>Black</hi> Scotch-man, and not King <hi>Charles</hi> the firſt; this was delivered in a Sermon, <hi>Septemb.</hi> 29. 1677. to the Stu<g ref="char:EOLhyphen"/>dents there, which Sermon the Deponent did hear, and in this Sermon the ſaid <hi>Daniel Armſtrong</hi> in plain words did ſay, that the King of <hi>England</hi> was a Baſtard; now this <hi>Daniel Arm<g ref="char:EOLhyphen"/>ſtrong</hi> goeth in <hi>Spain</hi> by the name of <hi>Joſeph Mundford,</hi> in Spa<g ref="char:EOLhyphen"/>niſh <hi>P. Joſeph Montefortio.</hi>
+               </p>
+            </div>
+            <div n="4" type="part">
+               <head>Item IV.</head>
+               <p>That the ſaid <hi>Daniel Armſtrong, alias Joſeph Mundford,</hi> did bring Letters from St. <hi>Omers</hi> to the Engliſh Colledge at <hi>Valla<g ref="char:EOLhyphen"/>dolyd</hi> to the Fathers of that Colledge, written in Latine (they being <hi>Spaniards</hi>) in which it was expreſſed and related from the Fathers of St. <hi>Omers,</hi> that the Fathers of the Society in <hi>London</hi> had procured one Father <hi>Beddingfield</hi> to be Confeſſor to His Roy<g ref="char:EOLhyphen"/>al Highneſs, but if they law His Royal Highneſs did not an<g ref="char:EOLhyphen"/>ſwer their expectations, they would diſpoſe of him as they did intend to diſpoſe of his Brother the King, which they hoped to effect within a year: Which Letters bore date <hi>June</hi> the 10th. 1677. and ſubſcribed by <hi>Richard Aſhby, alias Thimbleby,</hi> Rector of the Engliſh Seminary of the Society of <hi>Jeſus</hi> at St. <hi>Omers, Richard Peters,</hi> Miniſter, <hi>Edward Nevill,</hi> Prefect of the Studies, <hi>Charles Peters,</hi> Prefect of the Sodality, <hi>Thomas Fermor,</hi> Prefect of Manners: Which Letters the Deponent ſaw and read in the month of <hi>September</hi> at <hi>Valladolyd</hi> in the Kingdom of <hi>Spain.</hi>
+               </p>
+            </div>
+            <div n="5" type="part">
+               <head>Item V.</head>
+               <p>That Father <hi>Suiman</hi> above-mentioned wrote to the Engliſh Colledge, to the Fathers there, that the King of <hi>England</hi> was
+<pb n="4" facs="tcp:43679:10"/>poiſoned, to the great joy of the Engliſh Fathers, and that they would ſerve King, <hi>James</hi> ſo, if he did not give them good aſſu<g ref="char:EOLhyphen"/>ſurance of bringing in of the Catholick Religion, and of root<g ref="char:EOLhyphen"/>ing out Proteſtant Religion; this Letter bore date <hi>July</hi> the firſt, 1677. and was ſeen and read by the Deponent at <hi>Valladolyd,</hi> in the month of <hi>July,</hi> near the latter end.</p>
+            </div>
+            <div n="6" type="part">
+               <head>Item VI.</head>
+               <p>That one Father <hi>John Blake, alias Croſs,</hi> who went with the four Students to <hi>Madrid,</hi> did bring Letters from <hi>Richard Strange,</hi> Provincial of the Jeſuits, and one Father <hi>Gray</hi> a Jeſuit, and <hi>John Keines,</hi> to Father <hi>Suiman</hi> above-mentioned, in which was ſpecified, that all diligence was uſed by the ſaid <hi>Richard Strange,</hi> Father <hi>Gray,</hi> and <hi>John Keines,</hi> to procure ſome perſons to diſpatch the King, and to put a period to his daies, which Letter bore date <hi>June</hi> the 10th. 1677. <hi>Stylo novo.</hi> And now the Deponent being ſent to <hi>Madrid</hi> in the month of <hi>Auguſt,</hi> read it in Father <hi>Suiman</hi>'s Chamber, he ſhewing it alſo at the ſame time to <hi>James</hi> Archbiſhop of <hi>Tuam,</hi> in the Kingdom of <hi>Ire<g ref="char:EOLhyphen"/>land.</hi>
+               </p>
+            </div>
+            <div n="7" type="part">
+               <head>Item VII.</head>
+               <p>That the ſaid Father <hi>Suiman</hi> received another Letter bear<g ref="char:EOLhyphen"/>ing date <hi>July</hi> the 20th. 1677. <hi>Stylo novo,</hi> from <hi>Richard Strange,</hi> Father <hi>Gray, John Keines, Baſil Langworth, John Fenwick,</hi> Fa<g ref="char:EOLhyphen"/>ther <hi>Ireland,</hi> and Father <hi>Harcourt,</hi> in which they did mani<g ref="char:EOLhyphen"/>feſt, that they were very ſorry for informing him, that he might aſſure himſelf that the buſineſs was done, their man <hi>William</hi> being faint-hearted, could not then do it, though he had fifteen hundred pounds promiſed him for his pains; of which Letters the Engliſh Miſſionaries were one by one in<g ref="char:EOLhyphen"/>formed; thoſe at <hi>Madrid</hi> by <hi>John Croſs, alias Blake,</hi> and thoſe at <hi>Valladolyd,</hi> by <hi>Daniel Armſtrong,</hi> Jeſuits: which Letter of the 20th. of <hi>July,</hi> the Deponent ſaw in the Chamber of the ſaid <hi>Suiman</hi> at <hi>Madrid,</hi> at the ſame time when he ſaw the Let<g ref="char:EOLhyphen"/>ters
+<pb n="5" facs="tcp:43679:10"/>of the tenth of July, mentioned in the ſixth paragraph or number.</p>
+            </div>
+            <div n="8" type="part">
+               <head>Item VIII.</head>
+               <p>That on the third of <hi>Novemb. Stylo novo,</hi> Father <hi>Pedro Jero<g ref="char:EOLhyphen"/>nymo de Corduba,</hi> Provincial of the Jeſuits in <hi>New-Castile,</hi> did write to <hi>Richard Strange,</hi> and <hi>John Keines,</hi> that if the buſineſs of diſpatching the King of <hi>England</hi> could be effected, they ſhould have ten thouſand pound for their pains, which Letter the Deponent brought from <hi>Valladolyd</hi> to <hi>Bilbao,</hi> and embarqued in a Ship within five daies after his arrival thither, and in five daies more arrived at a little Town near <hi>Exeter,</hi> and in ſix daies more came to <hi>London,</hi> and delivered the Letter to <hi>Richard Strange,</hi> and when opened, it was written in Latin, and read by the ſaid <hi>Strange;</hi> and he ſaid, that all means ſhould be uſed to anſwer Father <hi>Pedro</hi>'s expectation. And in the Letter to <hi>Strange,</hi> was one encloſed to this <hi>Keines,</hi> by the name of <hi>Juan de Neoporto de la Compania de Jeſu;</hi> which Letter the ſaid <hi>Keines</hi> offered the Deponent to read, but being written in Spa<g ref="char:EOLhyphen"/>niſh, the Deponent did not well underſtand the Letter, and could make but little of it by reaſon of the Spaniſh abbrevia<g ref="char:EOLhyphen"/>tions; therefore the ſaid <hi>Strange</hi> did give the Deponent the Letter directed to himſelf, ſaying, he thought the Deponent did underſtand Latin better than Spaniſh; ſo that the Depo<g ref="char:EOLhyphen"/>nent read the ſaid Letter, and in it the Contents above-men<g ref="char:EOLhyphen"/>tioned; and the ſaid <hi>Strange</hi> being then ill upon <hi>Keines</hi> his bed, ſaid, that he hoped God would ſtrengthen honeſt <hi>William</hi>'s heart to do his work. Now this honeſt <hi>William</hi> is a Servant to the Society in <hi>London.</hi> This <hi>Strange</hi> did then lye at one M<hi rend="sup">rs.</hi> 
+                  <hi>Saunders</hi> houſe, a part of <hi>Wildhouſe</hi> in <hi>Wildſtreet,</hi> where the Deponent heard this diſcourſe from the ſaid <hi>Strange</hi> and <hi>Keines.</hi>
+               </p>
+            </div>
+            <div n="9" type="part">
+               <head>Item IX.</head>
+               <p>That the ſaid <hi>Richard Strange</hi> and <hi>John Keines, Baſil Lang<g ref="char:EOLhyphen"/>worth,</hi> Father <hi>Harcourt, John Fenwick,</hi> Father <hi>Ireland,</hi> Father <hi>Gray,</hi> Father <hi>Jenniſon,</hi> Father <hi>Saunders,</hi> and Father <hi>Eccleſdon,</hi> did write
+<pb n="6" facs="tcp:43679:11"/>a Letter, and ſubſcribed it, and ſent it to St. <hi>Omers,</hi> to <hi>Richard Aſhby,</hi> Rector of the Engliſh Seminary there; in which he and the reſt of the Fathers were given to underſtand that the King was altogether given to his pleaſures, and that they had an intent to procure one to ſtab him at his Court of <hi>Whitehall;</hi> and if that could not be conveniently done, they would em<g ref="char:EOLhyphen"/>ploy one of his Phyſicians to poiſon him; for which work they had ten thouſand pounds in the hands of one <hi>Worſly,</hi> a Goldſmith in <hi>London;</hi> which mony was procured for them by one Father <hi>Leſhee,</hi> a <hi>French</hi> Jeſuit, and Confeſſor to the <hi>French</hi> King; which Letter the Deponent ſaw and read, and ſaw it ſubſcribed by the perſons above-mentioned, and carried it to St. <hi>Omers.</hi> He went to <hi>Dover</hi> by Coach, a place in which was taken up for him by the ſaid <hi>William</hi> their ſervant, whoſe name indeed is <hi>John Groves.</hi> The Letter that the Depo<g ref="char:EOLhyphen"/>nent carried bore date the beginning of <hi>December,</hi> old Style.</p>
+            </div>
+            <div n="10" type="part">
+               <head>Item X.</head>
+               <p>That Letters were encloſed in this Letter aforementioned to the ſaid <hi>Leſhee,</hi> in which thanks was given him by the ſaid Fathers that had ſubſcribed the ſaid Letter to <hi>Richard Aſhby,</hi> for his great Charity to them, and his Care for the propagating the Catholick Religion; and that all means ſhould be uſed to deſtroy the oppoſers of it, both root and branch; which Let<g ref="char:EOLhyphen"/>ters bore date either the ſixth or ſeventh of <hi>Decemb.</hi> and the De<g ref="char:EOLhyphen"/>ponent carried them incloſed in thoſe of <hi>Richard Aſhby</hi> to St. <hi>Omers,</hi> and from St. <hi>Omers</hi> to <hi>Paris,</hi> and delivered them in<g ref="char:EOLhyphen"/>to the hands of the ſaid Father <hi>Leſhee,</hi> about the 18th. of <hi>De<g ref="char:EOLhyphen"/>cember,</hi> as near as the Deponent can remember.</p>
+            </div>
+            <div n="11" type="part">
+               <head>Item XI.</head>
+               <p>That other Letters bearing date <hi>December</hi> the 12th. 1677. were ſent from <hi>Richard Strange,</hi> and others of the Society in <hi>London,</hi> to thoſe of the Society in the <hi>Engliſh</hi> Seminary at St. <hi>Omers,</hi> and in them Letters were encloſed to Father <hi>Leſhee,</hi>
+                  <pb n="7" facs="tcp:43679:11"/>in which they told him, that they had ſtirred up the Presbyte<g ref="char:EOLhyphen"/>rians in <hi>Scotland</hi> to a Rebellion; and that twenty thouſand would be in Arms, if that His Majeſty of <hi>France</hi> would break with the King of <hi>England;</hi> and that a way alſo was made for the <hi>French</hi> King's landing an Army in <hi>Ireland:</hi> And further, that the <hi>Irſh</hi> Catholicks were ready to riſe; in order to which there were forty thouſand black Bills provided to furniſh the <hi>Iriſh</hi> ſouldiers withal: Which Letters were ſubſcribed by <hi>Rich. Strange, John Keines,</hi> and <hi>John Fenwick,</hi> and the out-ſide Letter directed to <hi>Richard Aſhby,</hi> Rector; which Letter was ſhewed to the Deponent at his return from <hi>Paris</hi> to <hi>St. Omers,</hi> by the ſaid <hi>Richard Aſhby;</hi> and told the Deponent that the Letters to <hi>Leſhee,</hi> for which the ſaid Meſſenger had ten Patacoons or Roy<g ref="char:EOLhyphen"/>als of eight, as the ſaid <hi>Aſhby</hi> informed the Deponent: And the ſaid Meſſenger was a Drummer, in the Town of St. <hi>Omers.</hi>
+               </p>
+            </div>
+            <div n="12" type="part">
+               <head>Item XII.</head>
+               <p>That in another Packet bearing date <hi>Decemb.</hi> the 18th. 1677. in which was ſpecified that the Father General of the Society of <hi>Jeſus</hi> had written from <hi>Rome,</hi> and had removed <hi>Richard Strange</hi> from being Provincial, and had conferred the Provin<g ref="char:EOLhyphen"/>cialſhip upon <hi>Thomas White, alias Whitebread;</hi> and the ſaid <hi>Thomas Whitebread</hi> ordered, that one Father <hi>George Coniers</hi> ſhould Preach on St. <hi>Thomas</hi> of <hi>Canterbury</hi>'s day, in the Sodality-Church, in the <hi>Engliſh</hi> Seminary, againſt the Oaths of Allegiance and Supremacy; and that he ſhould exhort the Fathers to ſtand by the new Provincial, who would be as zealous to promote the bringing in of Catholick Religion into <hi>England,</hi> as ever his Predeceſſor was and would not leave one ſtone unturned to promote the ſame: Which ſaid Letter was directed to, and received by <hi>Richard Aſhby,</hi> and communicated by him to the Deponent about the 24th. day of <hi>December.</hi>
+               </p>
+            </div>
+            <div n="13" type="part">
+               <head>Item XIII.</head>
+               <p>That in another Packet bearing date <hi>December</hi> the 26th. it was ordered by <hi>Thomas Whitebread, Richard Strange, John
+<pb n="8" facs="tcp:43679:12"/>Keines, Baſil Langworth, John Fenwick,</hi> Father <hi>Gray,</hi> Father <hi>Harcourt Senior,</hi> Father <hi>Harcourt Junior,</hi> Father <hi>Micho,</hi> Father <hi>Bennifield,</hi> Father <hi>Ireland,</hi> Father <hi>Blundell,</hi> Father <hi>Jemiſon,</hi> and ſome others of the Society, that Father <hi>Leſhee</hi> ſhould be written unto by <hi>Rich. Aſhby,</hi> and the Fathers of St. <hi>Omers,</hi> and informed that the Fathers before-mentioned had met together to contrive the Advancement of the Deſign of the happy diſpoſal of His Majeſty of Great <hi>Britain,</hi> and of His Royal Highneſs, if he ſhould not appear to anſwer their expectations. But the former giving no hopes at all, they would endeavour his diſpatch with all ſpeed that might be, that he might not hinder their Deſigns in bringing in Catholick Religion. And if they could not find an opportunity to take him from his Kingdom, they would ſoon take his Kingdom from him; which Letter the Deponent ſaw in the hands of <hi>Richard Aſhby,</hi> and deſired to read it, but the ſaid <hi>Richard</hi> would read it to him in his Chamber on <hi>Ja<g ref="char:EOLhyphen"/>nuary</hi> 2.</p>
+            </div>
+            <div n="14" type="part">
+               <head>Item XIV.</head>
+               <p>That in the ſaid Letters of <hi>December</hi> the 26th. it was ſpecified, that <hi>Richard Nicholas Blundell,</hi> was conſtituted by Pattent from the Provincial, to be Ordinary at <hi>Newgate,</hi> to go and viſit the Condemned Priſoners, and to reduce them to the Catholick Faith and Religion; and to Cate<g ref="char:EOLhyphen"/>chize ſome Youth in the City of <hi>London;</hi> and every day in the week he hath his ſeveral places where he Teacheth the Youth Treaſonable and Mutinous Doctrines againſt the Intereſt and Perſon of His Sacred Majeſty, and giveth certain ſumms of mony to their Parents (if poor) to in<g ref="char:EOLhyphen"/>courage them to ſend their Children to be thus inſtructed; which paſſage was contained in the aforeſaid Letters, and afterwards practiſed in <hi>London.</hi>
+               </p>
+            </div>
+            <div n="15" type="part">
+               <pb n="9" facs="tcp:43679:12"/>
+               <head>ITEM XV.</head>
+               <p>That another Packet came to <hi>Richard Aſhby</hi> to Saint <hi>O<g ref="char:EOLhyphen"/>mers,</hi> from <hi>Thomas White, John Keines,</hi> and others of the So<g ref="char:EOLhyphen"/>ciety of Jeſus in <hi>London;</hi> in which Letters, from them and others, were incloſed Letters to Father <hi>Thomas Stapleton</hi> Pro<g ref="char:EOLhyphen"/>curator at <hi>Bruſſels,</hi> to perſwade the Father Confeſſor of Duke <hi>de Villa Hermoſa,</hi> to inform, that his <hi>Majeſty</hi> of <hi>Great Bri<g ref="char:EOLhyphen"/>tain</hi> did not intend to aſſiſt his Majeſty of <hi>Spain,</hi> but to ſtand a looker on till he was ruined by the French King, which Letter, being not ſealed, was ſeen and heard read by <hi>Richard Aſhby</hi> then Rector of Saint <hi>Omers;</hi> in which it was further ordered, that if the ſaid Father Confeſſor ſhould not be ready to comply with the ſaid <hi>Stapleton,</hi> that meſ<g ref="char:EOLhyphen"/>ſengers ſhould be forthwith ſent to Father <hi>Swiman</hi> at <hi>Ma<g ref="char:EOLhyphen"/>drid</hi> to inform his Majeſty of <hi>Spain</hi> of the ſaid concern, and to make the ſame relation of the buſineſs to the Arch-Bi<g ref="char:EOLhyphen"/>ſhop of <hi>Tuam</hi> in the Kingdome of <hi>Ireland,</hi> now at the Court at <hi>Madrid,</hi> that he the ſaid <hi>Swiman,</hi> and he the ſaid Arch-Biſhop might jointly give an account to the King of <hi>Spain</hi> of the motion made or to be made, to the ſaid Father Confeſſor of Duke <hi>de Villa Hermoſa,</hi> and alſo to adviſe the Spa<g ref="char:EOLhyphen"/>niſh King to ſeize the eſtates of the Engliſh merchants in the ſeveral Factories in his Dominions; for that they had endea<g ref="char:EOLhyphen"/>voured to tranſport their Eſtates, and did tranſport them to <hi>England,</hi> which would tend highly to the prejudice of the Kingdome of <hi>Spain,</hi> and for the confirmation thereof they procured Letters from one <hi>Fonſeca,</hi> ſometimes an Agent in <hi>London,</hi> to atteſt the ſame, to which the ſaid <hi>Fonſeca</hi> willingly condeſcended, and ſent his Letter to Saint <hi>Omers,</hi> to be ſent to the Court of <hi>Spain,</hi> that the Fathers might give their approbation; which Letter was long, and large atteſta<g ref="char:EOLhyphen"/>tions therein made againſt the merchants reſident in their ſeveral Factories, concerning the matter of Fact before-mentioned, and alſo other Letters to <hi>Daniel Armſtrong</hi> at <hi>Valledolid,</hi> and to <hi>John Croſs</hi> at <hi>Madrid,</hi> in the which they
+<pb n="10" facs="tcp:43679:13"/>were ordered to confirm this affirmation made or to be made by the Fathers in <hi>England,</hi> and of the Engliſh Semi<g ref="char:EOLhyphen"/>nary at Saint <hi>Omers,</hi> and of the ſaid <hi>Stappleton,</hi> together with that of the ſaid <hi>Fonſeca,</hi> the abovementioned Spaniſh Agent, who now liveth at <hi>Bruges</hi> in <hi>Flanders.</hi> All which Letters bore date the firſt or ſecond of <hi>January</hi> 1678. <hi>Stilo No<g ref="char:EOLhyphen"/>vo,</hi> and all of them the Deponent ſaw at Saint <hi>Omers;</hi> and in the two Letters to thoſe two Fathers in <hi>Spain,</hi> viz. <hi>Daniel Armſtrong</hi> and <hi>John Croſs,</hi> was contained an eſpecial order, that the former, if he could not go to <hi>Madrid,</hi> ſhould ſend his atteſtations to Don <hi>Juan</hi> of <hi>Auſtria,</hi> for the carry<g ref="char:EOLhyphen"/>ing on of which two hundred pounds ſterling was tranſ<g ref="char:EOLhyphen"/>mitted by bills of Exchange to the ſaid father <hi>Swiman</hi> and the ſaid Engliſh Fathers.</p>
+            </div>
+            <div n="16" type="part">
+               <head>ITEM XVI.</head>
+               <p>That when the Letters came from <hi>England</hi> about the bu<g ref="char:EOLhyphen"/>ſineſs afore-mentioned to Saint <hi>Omers, Edward Nevil</hi> and <hi>Thomas Fermor,</hi> did ſay, that they would not let this black Ba<g ref="char:EOLhyphen"/>ſtard go to his grave in peace (meaning the King of <hi>England</hi>) for that he had cheated them ſo often, and that now they were reſolved to be ſerved ſo no more. But the Deponent ſtand<g ref="char:EOLhyphen"/>ing by, ſaid, what if the Duke ſhould prove ſlippery! They both replyed, his paſport was ready when ever he ſhould ap<g ref="char:EOLhyphen"/>pear to fail them, Theſe words were heard by the Deponent on the third of <hi>January</hi> in the afternoon, in the Library of the Jeſuits of Saint <hi>Omers.</hi>
+               </p>
+            </div>
+            <div n="17" type="part">
+               <head>ITEM XVII.</head>
+               <p>That on the fourth of <hi>January,</hi> 1678. <hi>Stylo novo,</hi> Letters were ſent by <hi>Richard Aſhby, Edward Hall, Edward Nevil, Charles Peters, Michael Conſtable, William Busby, James Jan<g ref="char:EOLhyphen"/>on,</hi> and <hi>Thomas Fermor,</hi> Jeſuits of the Engliſh Seminary at Saint <hi>Omers,</hi> as alſo <hi>Francis Williams</hi> Rector of <hi>Watton,</hi> and Maſter
+<pb n="11" facs="tcp:43679:13"/>of the Novices there, Sir <hi>John Warner Baronet</hi> alias <hi>Clare,</hi> Father <hi>Sanches</hi> alias <hi>Ditchling,</hi> to the Father Confeſſor of the Empe<g ref="char:EOLhyphen"/>rours Majeſty, to adviſe the Emperours Majeſty, that his Ma<g ref="char:EOLhyphen"/>jeſty of Great <hi>Brittain</hi> had treacherouſly ploted the ruine of the Confederates, eſpecially of the <hi>German</hi> Empire, and of his Catholick Princes under him, and had under hand ſtirred up the <hi>Hungarian</hi> Rebels againſt his Imperial Majeſty, and found them money to go on with their rebellion, and that his de<g ref="char:EOLhyphen"/>ſign was not to keep any alliance, with his Imperial Ma<g ref="char:EOLhyphen"/>jeſty, but onely in ſhew, that he might advance his Nephew the Prince of <hi>Orange</hi> and make him abſolute, and therefore prayed that the States of <hi>Holland</hi> might be acquainted with it. Which Letter was ſeen and peruſed by the Depo<g ref="char:EOLhyphen"/>nent, it being written in Latine, all which Letters were ſent a<g ref="char:EOLhyphen"/>way by a Lay-Brother that was a Dutch-man, and when theſe Letters were ſending away, one of the Lay-brothers, whoſe name was <hi>George,</hi> did ſay, That the Prince of <hi>O<g ref="char:EOLhyphen"/>range,</hi> was more fit to rob an Orchard than to be General of an Army.</p>
+            </div>
+            <div n="18" type="part">
+               <head>ITEM XVIII.</head>
+               <p>That Letters bearing date <hi>January</hi> the firſt, 1678. <hi>Spylo no<g ref="char:EOLhyphen"/>vo,</hi> arrived at Saint <hi>Omers, January</hi> the twentieth, from <hi>Tal<g ref="char:EOLhyphen"/>bot</hi> Arch-biſhop of <hi>Dublin,</hi> wherein it was expreſſed, that the Fathers of the Society in <hi>Ireland,</hi> were very vigilant to prepare the people to ariſe, for the defence of their Liberty and Religion, and to recover their Eſtates, and that if the Parliament that was to fit in <hi>England,</hi> ſhould joyn with the King in declaring War againſt <hi>France,</hi> that a place ſhould be open to receive the French Kings Army in <hi>Ireland,</hi> when his moſt Chriſtian Majeſty ſhould think fit to land one there: And in the Letter head adviſed the Fathers of Saint <hi>Omers</hi> to advertiſe Father <hi>Leſhee</hi> of the ſame, and other Jeſuits that had an intereſt in the French King: And that his Majeſty of Great <hi>Brittain,</hi> was brought to that paſs that if any Male content amongſt them ſhould not prove true
+<pb n="12" facs="tcp:43679:14"/>to their deſign his Majeſtie would never give ear to their information, and therefore prayed them to be dilligent, for now was the time or never: which Letter the Deponent ſaw and read, and in order to the Fathers compliance with the Letter of the ſaid Arch Biſhop, they diſpatched away Letters to Father <hi>Leſhee</hi> to <hi>Paris;</hi> and appointed <hi>Ed<g ref="char:EOLhyphen"/>ward Nevil</hi> and <hi>William Busby,</hi> to carry and deliver them to the ſaid <hi>Leſhee,</hi> which Letters were anſwered with all ſpeed by the aforeſaid meſſengers, Jeſuits, as above, the one of them being the Prefect of Studies, and the other Pro<g ref="char:EOLhyphen"/>curator for the Seminary, and by them wrote Letters to <hi>Thomas White</hi> Provincial, and to the Rector of Saint <hi>Omers,</hi> viz. <hi>Richard Aſhby:</hi> Of that to the Provincial the Deponent can give no account; but of that to <hi>Aſhby</hi> the Deponent ſaith, that there was in it expreſſed, that the Father Gene<g ref="char:EOLhyphen"/>ral of the Society of Jeſus, would contribute eight hundred thouſand Crowns to be paid in the moneth of <hi>June</hi> next enſuing, and that his Holineſſe, the Pope, would not be wanting to ſupply them, when they had made ſome pro<g ref="char:EOLhyphen"/>greſſe in that glorious attempt,</p>
+            </div>
+            <div n="19" type="part">
+               <head>ITEM XIX.</head>
+               <p>That another Packet arrived at Saint <hi>Omers</hi> directed to <hi>Richard Aſhby,</hi> Rector of the Engliſh Seminary there: The Date of which is not well remembred by the Deponent, but as near as he doth remember, it was about the begin<g ref="char:EOLhyphen"/>ning of the Parliament, for there came the Speeches of the King and Lord Chancellour, and the Votes of the Parlia<g ref="char:EOLhyphen"/>ment, which were put into ridiculous phraſes, in contempt of the King and both Houſes of Parliament, for the Fathers and Scholers to laugh at, and then tranſlated into the French Tongue, and preſented to the Governor of Saint <hi>Omers,</hi> who ſendeth them to the French King his Maſter: and in the Pack<g ref="char:EOLhyphen"/>et was contained an account of the attempt of one <hi>Picker<g ref="char:EOLhyphen"/>ing,</hi> a lay Brother, that waits upon the Jeſuits lying at <hi>Somer<g ref="char:EOLhyphen"/>ſet</hi> houſe, to ſhoot the King as he was was walking in Saint
+<pb n="13" facs="tcp:43679:14"/>
+                  <hi>James</hi> park, when he was at ſome diſtance from his No<g ref="char:EOLhyphen"/>bles and Attendants, but the Flint of his Piſtol being ſome<g ref="char:EOLhyphen"/>what looſe, he did defer the action till another opportu<g ref="char:EOLhyphen"/>nity, and if he had done it and had ſuffered, he ſhould have had thirty thouſand Maſſes ſaid for the health of his ſoul<g ref="char:punc">▪</g> Which Letters were ſigned by <hi>Thomas White</hi> alias <hi>White<g ref="char:EOLhyphen"/>bread</hi> Provincial, which Letters, when read, the Fathers in the Engliſh Seminary were in great trouble, for the negligence of the ſaid <hi>Pickering,</hi> and the Deponent ſaw and read them in the latter part of <hi>January,</hi> and the Votes put into ſuch mock Phraſes, as alſo the Speeches of the King and Lord Chancellor in the moneth of <hi>Fe<g ref="char:EOLhyphen"/>bruary.</hi>
+               </p>
+            </div>
+            <div n="20" type="part">
+               <head>ITEM XX.</head>
+               <p>That the Deponent, went on the nine and twentieth of <hi>January</hi> to know of his Confeſſarius, whether he might keep the thirtieth of <hi>January</hi> as a faſt, the Confeſſor re<g ref="char:EOLhyphen"/>plyed, that the account with them was on the ninth of <hi>February,</hi> becauſe the account of <hi>England</hi> did differ from the account on that ſide the Water: The Deponent ask<g ref="char:EOLhyphen"/>ed him, whether then he might keep the ninth of <hi>Februa<g ref="char:EOLhyphen"/>ry</hi> as a day of Faſting? The Confeſſor asked him, why? The Deponent replyed, becauſe of the Martyrdome of the late King, the Confeſſarius anſwered, that the late King was no Martyr but an Heretick, and withal added, that he was none of King <hi>James</hi> Son, but a Baſtard begotten upon the body of <hi>Anne</hi> of <hi>Denmark</hi> by her Taylor. This Con<g ref="char:EOLhyphen"/>feſſarius is a Jeſuit, and his name <hi>Charles Peters,</hi> Prefect of the Sodality.</p>
+            </div>
+            <div n="21" type="part">
+               <head>ITEM XXI.</head>
+               <p>That Letters bearing date, <hi>February</hi> the firſt. <hi>Stylo no<g ref="char:EOLhyphen"/>vo,</hi> from <hi>Thomas Whitebread, John Keines, John Fenwick,</hi>
+                  <pb n="14" facs="tcp:43679:15"/>Father <hi>Ireland,</hi> and Father <hi>Micho</hi> to <hi>Richard Aſhby</hi> Rector of Saint <hi>Omers,</hi> (then ill of the Gout) and to the Engliſh Fathers there, did let them underſtand, that they had ſent <hi>Wil<g ref="char:EOLhyphen"/>liam Morgan</hi> into <hi>Ireland</hi> to ſee how affairs ſtood in that Kingdome, and expected his return by the end of <hi>March</hi> next, and that he ſet out the ſix and twentieth of <hi>January,</hi> and that they had given him inſtructions to order the affairs in hand, and to encourage the Iriſh Natives to de<g ref="char:EOLhyphen"/>fend their Religion and Liberty: And his Companion was one Father <hi>Lovel,</hi> who was to go into the North of <hi>Ire<g ref="char:EOLhyphen"/>land</hi> to ſee the Fathers of the Society there; and carried two thouſand pound to ſupply their preſent wants, and to promiſe them four thouſand pound more in caſe there ſhould be any action.</p>
+            </div>
+            <div n="22" type="part">
+               <head>ITEM XXII.</head>
+               <p>That another Pacquet came from <hi>Thomas White</hi> alias <hi>Whitebread,</hi> Father <hi>Micho,</hi> Father <hi>Ireland,</hi> Father <hi>Harcourt</hi> and others of the Society in <hi>London,</hi> bearing date <hi>February</hi> the ſeventh, 1678. <hi>Stylo novo:</hi> In which was contained an account of the Fathers progreſs in <hi>Berkſhire, Oxfordſhire,</hi> and <hi>Eſſex;</hi> in perſwading the Catholicks that were Vota<g ref="char:EOLhyphen"/>ries for the order of Saint <hi>Ignatius</hi> to contribute for the Iriſh rebellion, and maintaining a Civil War in that King<g ref="char:EOLhyphen"/>dome, in caſe the French King ſhould break with the King of <hi>England:</hi> And alſo that they had received Letters from <hi>Scotland,</hi> in which they were informed that the people would riſe to oppoſe Duke <hi>Lauderdale,</hi> and the Royal party in that Kingdome, and alſo that they would endeavour by them<g ref="char:EOLhyphen"/>ſelves, their Agents, and their Purſe to provoke the Scots againſt the Engliſh, and withal told the Fathers of Saint <hi>Omers</hi> to whom this Pacquet was directed, and by whom it was received, that they ſhould be glad to effect ſuch a deſign. Which Pacquet the Deponent ſaw and read, Letter by Letter.</p>
+            </div>
+            <div n="23" type="part">
+               <pb n="15" facs="tcp:43679:15"/>
+               <head>ITEM XXIII.</head>
+               <p>That the Fathers of Saint <hi>Omers, viz. Richard Aſhby</hi> Re<g ref="char:EOLhyphen"/>ctor, <hi>Edward Hall, Edward Nevill,</hi> and others of the Eng<g ref="char:EOLhyphen"/>liſh Seminary, did write to <hi>Thomas Whitebread</hi> and other Fathers, in which was expreſſed that it was now appa<g ref="char:EOLhyphen"/>rent, that the Catholick Religion was to be brought in the ſame way, that they had uſed for the deſtruction of the Father of this King, and as that could not be effected till much blood was ſpilt on both ſides, ſo this muſt be effected by effuſion of blood: And withal prayed them to proſecute their deſign in taking away the King; and if his Royal Highneſs ſhould not comply with them, to diſpatch him too: for they did fear that never any of the <hi>Stuarts</hi> were men for the effecting of their ends and purpoſes. And in this Letter, inſtructions were given to the Fathers to feel how his Royal Highneſs ſtood affected. Which Le<g ref="char:EOLhyphen"/>ter bore date, <hi>February</hi> the tenth, <hi>Stylo novo,</hi> and was ſign<g ref="char:EOLhyphen"/>ed by the perſons abovenamed in the preſence of the De<g ref="char:EOLhyphen"/>ponent, who did compoſe theſe Letters for them, accord<g ref="char:EOLhyphen"/>ing to direction given him by them: Which Letter was, to the Deponents knowledge, carried into <hi>Eng<g ref="char:EOLhyphen"/>land</hi> by one Father <hi>Every,</hi> who then went for <hi>Eng<g ref="char:EOLhyphen"/>land.</hi>
+               </p>
+            </div>
+            <div n="24" type="part">
+               <head>ITEM XXIV.</head>
+               <p>That an anſwer of the aforeſaid Letters of <hi>February</hi> the tenth, <hi>Stylo novo,</hi> dated <hi>February</hi> the twentieth Old ſtyle, came from <hi>Thomas White, John Keines</hi> and <hi>Baſil Langworth, Richard Peters, John Fenwick,</hi> Father <hi>Ireland,</hi> Father <hi>Harcourt,</hi> Father <hi>Blundel,</hi> Father <hi>Matthew VVright,</hi> and Father <hi>Thomas VVright,</hi> Father <hi>Jenniſon,</hi> and one Father <hi>Sim<g ref="char:EOLhyphen"/>mons,</hi> who ſome time belonged to <hi>Somerſet</hi> Houſe, who al<g ref="char:EOLhyphen"/>ſo ſigned with the reſt, the ſaid anſwer, which told the Fathers at Saint <hi>Omers</hi> (viz. <hi>Richard Aſhby</hi> to whom the
+<pb n="16" facs="tcp:43679:16"/>Letter was directed and the reſt) that they had found, that although the Duke was a good Catholique, yet he had a tender affection to the King, and would ſcarcely be engag<g ref="char:EOLhyphen"/>ed in that concern, and if they ſhould once intimate their deſigns and purpoſes unto him, they might not only be fru<g ref="char:EOLhyphen"/>ſtrated of their deſign but alſo might loſe his favour. Which Letter the Deponent ſaw and read in the month of <hi>February.</hi>
+               </p>
+            </div>
+            <div n="25" type="part">
+               <head>ITEM XXV.</head>
+               <p>That the Fathers of the Engliſh Seminary at Saint <hi>Omers</hi> did oblige one brother <hi>George</hi> a Day-brother in the ſaid Seminary to go for <hi>Ghent</hi> in <hi>Flanders</hi> to the Engliſh <hi>Jeſuits</hi> there with a Letter from Saint <hi>Omers</hi> dated <hi>February,</hi> 26. <hi>Stylo veteri:</hi> In which they had an account of that letter of <hi>February,</hi> 20 <hi>Stylo veteri;</hi> and the ſaid brother <hi>George</hi> ar<g ref="char:EOLhyphen"/>rived there <hi>February</hi> 28 <hi>Stylo veteri:</hi> and the <hi>Jeſuits</hi> there ad<g ref="char:EOLhyphen"/>viſed the Fathers in one of <hi>March</hi> the firſt <hi>Stylo veteri,</hi> that the ſecular Clergy ſhould be treated withal about the buſi<g ref="char:EOLhyphen"/>neſs, but they finding them then at that time to be men in<g ref="char:EOLhyphen"/>clined to live in peace and obedience to their Prince, the Fa<g ref="char:EOLhyphen"/>thers <hi>viz. Thomas VVhite</hi> &amp;c. anſwered them in one of <hi>March</hi> 10 <hi>Stylo veteri</hi> That the Clergy were a ſort of raſcally fellows that had neither wit nor courage to manage ſuch a great de<g ref="char:EOLhyphen"/>ſigne; and did pray them of <hi>Ghent</hi> and them of Saint <hi>Omers</hi> to be of good Cheer, for their deſignes went on well both in <hi>Scotland</hi> and <hi>Ireland,</hi> and the fatal blow ſhould be given to the black boy at <hi>Whitehal</hi> with all the ſpeed that might be. Which letters to them at <hi>Ghent,</hi> and from them at <hi>Ghent</hi> to the Provincial (they being brought back to Saint <hi>Omers</hi> be<g ref="char:EOLhyphen"/>fore they went to the Provincial) and alſo theſe of <hi>March</hi> 10. the Deponent ſaw and read.</p>
+            </div>
+            <div n="26" type="part">
+               <head>ITEM XXVI.</head>
+               <p>That there was an attempt to make an aſſaſſina<g ref="char:EOLhyphen"/>tion upon the perſon of his ſacred MAJESTY in the month of <hi>March</hi> ſeveral days as he was walking in the Park, and once as he was going to the Parlia<g ref="char:EOLhyphen"/>ment-houſe,
+<pb n="17" facs="tcp:43679:16"/>by this honeſt <hi>William</hi> and <hi>Pickering,</hi> but op<g ref="char:EOLhyphen"/>portunity did not offer it ſelf, for the which the former, <hi>viz.</hi> honeſt <hi>William,</hi> was chidden, and the latter had a Penance of twenty ſtrokes with a Diſcipline on his Shoul<g ref="char:EOLhyphen"/>ders, it being judged by the Fathers the effect of his neg<g ref="char:EOLhyphen"/>ligence: Which Paſſage the Deponent ſaw mentioned in a Letter from <hi>Thomas White</hi> to <hi>Rich. Aſhby,</hi> bearing Date <hi>March</hi> the 26th. 1678.</p>
+            </div>
+            <div n="27" type="part">
+               <head>Item XXVII.</head>
+               <p>That of the 5th of <hi>April</hi> Letters came from <hi>Thomas White,</hi> and the Fathers in <hi>London,</hi> to <hi>Rich. Aſhby</hi> and thoſe of the <hi>Engliſh</hi> Seminary at S. <hi>Omers;</hi> in which the Fathers at <hi>London</hi> did give them of S. <hi>Omers</hi> an account that <hi>Will. Morgan</hi> and Father <hi>Lovell</hi> were returned out of <hi>Ireland,</hi> who gave them to underſtand, That the <hi>Iriſh</hi> were ready to riſe at ten day warning, with 20000 foot and 5000 horſe, and would let the <hi>French</hi> King into that Kingdom if he ſhould come to land an Army there, and that Father <hi>Lovell</hi> did give an account that 15000 horſe and foot would riſe in the North of <hi>Ireland,</hi> and that the people were very patient but very reſolute; and that the Duke of <hi>Ormond,</hi> now Lord Lieutenant, is in a great perplexity to ſee <hi>Catholick Religion</hi> thrive ſo well in <hi>Ireland,</hi> and that there are perſons that have ſecretly taken Commiſſions from the General of the Society of <hi>Jeſus,</hi> by vertue of a Breve from the Pope, dated <hi>Octob.</hi> 1. 1673. and that they reſolve to cut the Throats of the <hi>Proteſtants</hi> again, when once they riſe. And in the ſaid Letters the Provincial ſum<g ref="char:EOLhyphen"/>moned a General Conſult to be held in <hi>London,</hi> and there<g ref="char:EOLhyphen"/>fore commanded the Fathers on the other ſide of the Wa<g ref="char:EOLhyphen"/>ter to be preſent. In which Letter the Deponent did ſee himſelf ſummoned to aſſiſt at that Conſult, as a Meſſen<g ref="char:EOLhyphen"/>ger from Father to Father. This Letter the Deponent ſaw in the Month of <hi>April.</hi>
+               </p>
+            </div>
+            <div n="28" type="part">
+               <pb n="18" facs="tcp:43679:17"/>
+               <head>Item XXVIII.</head>
+               <p>That in order to this Command, on <hi>April</hi> 24. 1678. <hi>Stylo Novo,</hi> Father <hi>Warren,</hi> Rector of <hi>Leige,</hi> Sir <hi>Thomas Pre<g ref="char:EOLhyphen"/>ſton,</hi> Baronet, Father <hi>Marſh,</hi> Rector of <hi>Ghent,</hi> Father <hi>Willi<g ref="char:EOLhyphen"/>ams,</hi> Rector of <hi>Watton,</hi> and Maſter of the <hi>Novices,</hi> Sir <hi>John Warner</hi> Baronet, (<hi>Rich. Aſhby,</hi> Rector of the <hi>Engliſh</hi> Semi<g ref="char:EOLhyphen"/>nary at S. <hi>Omers,</hi> being ſick of the Gout could not go) but out of the ſaid Seminary went Sir <hi>Robert Brett,</hi> Baro<g ref="char:EOLhyphen"/>net, Father <hi>Poole, Edward Nevill;</hi> there were in all with the <hi>Deponent</hi> about 9 or 10 who met in <hi>London</hi> in Conſult with <hi>Tho. Whitebread,</hi> Father <hi>Harcourt, ſenior,</hi> and Father <hi>Har<g ref="char:EOLhyphen"/>court, junior, John Fenwick, Baſil Langworth, Willam Mor<g ref="char:EOLhyphen"/>gan, John Keines,</hi> Father <hi>Lovell,</hi> Father <hi>Ireland,</hi> Father <hi>Blundell, Rich. Strange,</hi> Father <hi>Mico,</hi> Father <hi>Gray,</hi> and others, to the number of Fifty <hi>Jeſuits,</hi> met at the <hi>White<g ref="char:EOLhyphen"/>horſe Tavern,</hi> in the <hi>Strand,</hi> where they plotted their De<g ref="char:EOLhyphen"/>ſigns for the Society, and ordered Father <hi>John Cary,</hi> who was alſo there, to go <hi>Procurator</hi> for <hi>Rome:</hi> At which Conſult, thus held in the Month of <hi>May,</hi> the Deponent was preſent to attend the <hi>Conſulters,</hi> and delivered their <hi>Concerns</hi> from Company to Company; and then a little after they left the <hi>White-horſe Tavern,</hi> and divided them<g ref="char:EOLhyphen"/>ſelves into ſeveral <hi>Clubs</hi> or <hi>Companies.</hi> Some met at Mrs. <hi>Saunders houſe,</hi> in <hi>Wild-ſtreet;</hi> others at Mrs. <hi>Fenwicks,</hi> at <hi>Ayre</hi>'s Houſe, in <hi>Drury-lane;</hi> others at Mr. <hi>Ireland</hi>'s, in <hi>Ruſ<g ref="char:EOLhyphen"/>ſel-ſtreet</hi> near <hi>Covent-Garden,</hi> and in other places; all which, though in ſeveral Companies, 5 or 6 in a Compa<g ref="char:EOLhyphen"/>ny, did contrive the death of the King: In order to which there were Papers ſent from <hi>Company</hi> to <hi>Company,</hi> which the Deponent carried, containing the Opinions of the timeing their buſineſs, and the manner how it was to be done: And within 3 or 4 days after, the Deponent went to S. <hi>Omers</hi> with the Fathers that came from the other ſide of the Water.</p>
+            </div>
+            <div n="29" type="part">
+               <pb n="19" facs="tcp:43679:17"/>
+               <head>Item XXIX.</head>
+               <p>That on the 10th of <hi>June, Stylo Novo,</hi> came <hi>Thomas White</hi> to S. <hi>Omers,</hi> in order to viſit his Colledges in <hi>Flanders</hi> and <hi>Germany;</hi> and in his Chamber the 11th day, where the Deponent was preſent, together with <hi>Rich. Aſhby,</hi> Re<g ref="char:EOLhyphen"/>ctor, he there told the <hi>Deponent</hi> and the ſaid <hi>Aſhby, That he hoped to ſee the Fool at</hi> White-hall <hi>laid faſt enough; and that the Society need not fear, for he</hi> (that is the King) <hi>was grown ſecure, and would hear no complaints againſt them, and if the Duke ſhould ſet his Face in the leaſt meaſure to follow his Brothers Foot-ſteps, his paſsport was made to lay him to ſleep.</hi>
+               </p>
+            </div>
+            <div n="30" type="part">
+               <head>Item XXX.</head>
+               <p>That the ſaid <hi>Thomas Whitebread,</hi> on the 13th of <hi>June,</hi> did tell the Rector of S. <hi>Omers, That a Miniſter of the Church of</hi> England <hi>had ſcandalouſly and baſely put out the</hi> Juſuits Morals <hi>in</hi> Engliſh, <hi>and had endeavoured villanouſly to render them odious to the people, and asked the ſaid Rector whether he thought the Deponent might poſſibly know him?</hi> and the Rector not knowing, called the Deponent, who heard theſe words as he ſtood at the Chamber door of the ſaid Provincial, and when the Deponent went into the Chamber of the ſaid Provincial, he asked him, <hi>If he knew the Author of the</hi> Jeſuits Morals? the Deponent an<g ref="char:EOLhyphen"/>ſwered, <hi>his Perſon, but not his Name.</hi> The ſaid <hi>Thomas Whitebread</hi> demanded then, <hi>Whether he would undertake to poyſon to aſſaſſinate the Author?</hi> which the <hi>Deponent</hi> under<g ref="char:EOLhyphen"/>took to do, having 50 <hi>l.</hi> reward promiſed him by the ſaid <hi>Provincial,</hi> and appointed to return to <hi>England.</hi> And the <hi>Deponent</hi> doth farther teſtifie, that at the ſame time the ſaid <hi>Provincial</hi> did in his Chamber ſay, <hi>That he and the Society in</hi> London <hi>would procure Dr.</hi> Stillingfleet <hi>to be knockt on the head, and alſo</hi> Poole, <hi>the Author of</hi> Synopſis Criti<g ref="char:EOLhyphen"/>corum, <hi>for writing ſome things againſt them.</hi>
+               </p>
+            </div>
+            <div n="31" type="part">
+               <pb n="20" facs="tcp:43679:18"/>
+               <head>Item XXXI.</head>
+               <p>That <hi>Rich. Aſhby,</hi> Rector of S. <hi>Omers,</hi> being ill that Evening with the Gout and Stone, <hi>viz. June</hi> 13. de<g ref="char:EOLhyphen"/>ſired the company of the Deponent, and did tell the Deponent, <hi>That Father</hi> Warren, who is now Rector of the Colledge of <hi>Jeſuits</hi> at <hi>Leigh, did, when he was Pro<g ref="char:EOLhyphen"/>curator at</hi> Paris, <hi>reconcile the late Lord Chancellour</hi> Hyde <hi>to the Church of</hi> Rome <hi>upon his death bed;</hi> which words were occaſioned by the <hi>Deponent's</hi> taking notice of the Ducheſs of <hi>York</hi> (Daughter of the ſaid Lord Chancellour) dying a <hi>Papiſt.</hi> And the <hi>Deponent,</hi> when he heard the ſaid <hi>Aſhby</hi> ſpeak theſe words, replyed, <hi>That he never heard any thing of the return of the ſaid Lord Chancellour:</hi> Anſwer was made, <hi>That he, the ſaid</hi> Aſahby, <hi>was certain that the ſaid Lord Chancellour was reconciled by the ſaid</hi> Warren.</p>
+            </div>
+            <div n="32" type="part">
+               <head>Item XXXII.</head>
+               <p>That on the 23. day of <hi>June,</hi> in the morning, <hi>New Style,</hi> the <hi>Deponent,</hi> had expreſs orders preſently to go for <hi>Calice,</hi> and then to take the <hi>Packquet-Boat</hi> and ſo away for <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> to attend the motions of the Fathers in <hi>London,</hi> and to remain in <hi>London</hi> till he had orders from the <hi>Provincial</hi> to the contrary, and gave the <hi>Deponent</hi> four pounds for his Charges, and promiſed him 80 <hi>l.</hi> for Services already done for the Society in <hi>Spain</hi> and elſewhere. And the <hi>Deponent</hi> ſaith, <hi>That he obeyed the Orders, and that night got to</hi> Calice, <hi>and there met with four</hi> Jeſuits <hi>that were or<g ref="char:EOLhyphen"/>dered for</hi> London; <hi>and on</hi> Fryday <hi>the</hi> 24th new <hi>Style,</hi> the Deponent ſaith, <hi>they took the Packquet-Boat together, and arrived ſafely to</hi> Dover <hi>on</hi> Saturday <hi>morning, where the De<g ref="char:EOLhyphen"/>ponent met with</hi> John Fenwick, <hi>who had brought</hi> 8 <hi>Students to</hi> Dover <hi>to tranſport them to S.</hi> Omers: And the <hi>Deponent</hi> further ſaith, That the four <hi>Jeſuits</hi> and <hi>Fenwick</hi> who were at <hi>Dover</hi> by name of <hi>Thomſon,</hi> and he the Deponent took Coach about 11 or 12 of the Clock at Noon; and at <hi>Borton,</hi> ſix Miles on this ſide <hi>Canterbury,</hi>
+                  <pb n="21" facs="tcp:43679:18"/>the Coach was ſtopt, and a Box was ſeized of the ſaid <hi>John Fenwick</hi>'s by the Searchers of that place, and when by them opened, in it they found Beads, Pictures, Images, and <hi>Agnus Dei's,</hi> which were to be given by <hi>Blundel</hi> the Catechiſt to young Children, to encourage them to come to his Catechiſing Schools, and to be Catechiſed by him. Accordingly there was a Direction on the ſaid Box fixed, as, <hi>To the honourable</hi> Rich. Blundel, <hi>Eſquire, London:</hi> Which Box remaineth ſo ſeized by the ſaid Searchers; and if they had ſearched the Pockets of the ſaid <hi>Fenwick,</hi> they had found ſuch Letters upon him, as the ſaid <hi>Fenwick,</hi> con<g ref="char:EOLhyphen"/>feſſed to the Deponent, might have coſt him his life; <hi>they being</hi> ſaith he, <hi>the Concern in hand;</hi> but the ſaid Letters the Deponent did not ſee.</p>
+            </div>
+            <div n="33" type="part">
+               <head>Item XXXIII.</head>
+               <p>That in the Month of <hi>July, Rich. Aſhby</hi> came to <hi>Lon<g ref="char:EOLhyphen"/>don</hi> with Inſtructions from the ſaid <hi>Thomas Whitebread</hi> or <hi>White,</hi> that the 10000 <hi>l.</hi> procured by Father <hi>Leſhee,</hi> and then in the hands of the Society in <hi>London,</hi> ſhould be put into the hands of one <hi>Worſly,</hi> their Banker; and that the ſaid <hi>Rich. Aſhby,</hi> with other Fathers, ſhould treat and agree with Sir <hi>George Wakeman</hi> about the concern of poyſoning the King; and that if he would undertake it he ſhould have the 10000 <hi>l.</hi> which the ſaid <hi>Rich. Aſhby</hi> told the De<g ref="char:EOLhyphen"/>ponent, ſhewing him the ſaid Inſtructions by way of <hi>Me<g ref="char:EOLhyphen"/>morandum</hi> in Writing. In which <hi>Memorandum</hi> was con<g ref="char:EOLhyphen"/>tained an <hi>Item</hi> given by the ſaid <hi>Thomas Whitebread</hi> for the procuring the Aſſaſſination of the Right Reverend Father in God <hi>Herbert,</hi> Lord Biſhop of <hi>Hereford;</hi> for the ſaid Bi<g ref="char:EOLhyphen"/>ſhop had been educated in the Popiſh Religion, and was fallen, and they were reſolved not to pity nor ſpare any Apoſtate from the <hi>Roman Faith.</hi> The ſaid <hi>Rich. Aſhby</hi> asked the Deponent, whether the ſaid Biſhop were not a forward Man againſt <hi>Catholicks?</hi> and the Deponent not knowing the ſaid Biſhop, told the ſaid <hi>Aſhby</hi> he could not tell; and the ſaid <hi>Aſhby</hi> did ſay, <hi>That times now being ready
+<pb n="22" facs="tcp:43679:19"/>to change, they would be ready to give not only Apoſiates, but alſo thoſe Hereticks that had obſtinately oppoſed the pro<g ref="char:EOLhyphen"/>ceedings of the Society, and their Agents, in propagating the Faith and Intereſt of the Church of</hi> Rome, <hi>a just Re<g ref="char:EOLhyphen"/>ward for their Apostacy and infamous obstinacy; and though the Parliament have taken away the Act for burning</hi> Here<g ref="char:EOLhyphen"/>ticks, <hi>they ſhould not eſcape the Vengeance of</hi> Catholicks.</p>
+            </div>
+            <div n="34" type="part">
+               <head>Item XXXIV.</head>
+               <p>That in the Month of <hi>July,</hi> 1678. <hi>Rich. Strange,</hi> the laſt Provincial of the <hi>Jeſuits,</hi> came to the Lodgings of Mr. <hi>Rich. Aſhby,</hi> who, before he went down to the <hi>Bath,</hi> lay in the new Provincial's Lodgings, at Mrs. <hi>Saunders</hi> houſe, a part of <hi>Wild-houſe</hi> in <hi>Wild-street,</hi> and finding the Deponent with the ſaid <hi>Aſhby,</hi> did deſire the Deponent to meet him at his Chamber, at Mr. <hi>John Groves</hi> in <hi>York-street</hi> near <hi>Covent-Garden,</hi> and after a ſhort ſtay at <hi>Aſhbies</hi> Lodg<g ref="char:EOLhyphen"/>ings, took his leave of the ſaid <hi>Aſhby,</hi> and preſently after the Deponent took his leave alſo of the ſaid <hi>Aſhby,</hi> and followed <hi>Strange,</hi> and got to his Chamber preſently after him; where the ſaid <hi>Strange</hi> did encourage the Deponent to go on in aſſiſting the Society in carrying on the Deſign; And thereupon told the Deponent that they got 14000 <hi>l.</hi> in the Fire of <hi>London,</hi> in the year 1666. The Deponent asked the ſaid <hi>Strange</hi> how they came to effect that great and famous buſineſs? The ſaid <hi>Strange</hi> replyed, That himſelf, and one <hi>Gray,</hi> and <hi>Pennington,</hi> and <hi>Barton, Jeſuits,</hi> with ſome others, together with one <hi>Keimaſh,</hi> a <hi>Dominican</hi> Fryar, joyned with one <hi>Green,</hi> and met at one <hi>William Weſts</hi> houſe, who kept de Green-Dragon in <hi>Puddle-dock:</hi> The ſaid <hi>Weſt</hi> was by Trade a Taylor, whom they employ<g ref="char:EOLhyphen"/>ed to make them ſome Cloaths, and there they did debate about the manner of firing the City, and where they ſhould begin, and did attempt it in <hi>February</hi> 1664/5. But not be<g ref="char:EOLhyphen"/>ing provided of aſſiſtance enough, and the <hi>Thames</hi> being frozen over, and the Sickneſs coming on a-pace, they then altered their purpoſe: And in <hi>January</hi> 1665/6. they
+<pb n="23" facs="tcp:43679:19"/>met with this <hi>Green</hi> again, who cloſed in with them in this Deſign. And that they might ingratiate themſelves with this <hi>Green,</hi> furniſhed him with 30 <hi>l.</hi> (he being poor) yet they found him an active man, and fit for their purpoſe. And the more to engage him the ſaid <hi>Green,</hi> they pretend<g ref="char:EOLhyphen"/>ed to hold many of the Fifth-Monarchy Principles; which when <hi>Green</hi> perceived, (judging them to be real) brought them acquainted with eight others, who were zealous in the buſineſs. The aforeſaid <hi>Jeſuits</hi> were earneſt to have the buſineſs done in <hi>February,</hi> before the return of the Inha<g ref="char:EOLhyphen"/>bitants to <hi>London;</hi> but <hi>Green</hi> did pray theſe perſons, <hi>viz.</hi> the <hi>Jeſuits,</hi> to ſuſpend that reſolution, becauſe that then they ſhould be ſooner diſcovered, and ſuch a Deſign muſt have an Uproar; and beſides all this, the King would not be much in Town, if at all, till the Plague was more abated, whom <hi>Green</hi> did ſay muſt be cut off too, when the people were in a hurry by reaſon of the fire: And this motion pleaſed the <hi>Jeſuits</hi> and <hi>Dominican</hi> well, and ſo it was put off. In a very little time after the ſaid <hi>Green,</hi> and the reſt of thoſe Fifth-Monarchy men, together with the four <hi>Je<g ref="char:EOLhyphen"/>ſuits</hi> and <hi>Dominican</hi> above-named, were ſuſpected by the ſaid <hi>Weſt</hi> that kept the ſaid houſe in <hi>Puddle-dock,</hi> and were forewarned his houſe. And preſently after <hi>Green</hi> and his eight acquaintance were clapt up in Priſon, (but for what the ſaid <hi>Strange</hi> did not tell the Deponent.) And upon the Impriſonment of theſe nine perſons, the ſaid <hi>Je<g ref="char:EOLhyphen"/>ſuits</hi> and <hi>Dominican</hi> did go to S. <hi>Omers,</hi> and there remain<g ref="char:EOLhyphen"/>ed till the <hi>May</hi> after the Execution of eight of theſe perſons thus impriſoned. (<hi>Green</hi> dying in <hi>Newgate.</hi>) But one <hi>Fitz Gerard,</hi> an <hi>Iriſh Jeſuit,</hi> and one <hi>Neale</hi> of <hi>White-Chappel,</hi> did write to <hi>Strange</hi> (as the ſaid <hi>Strange</hi> inform<g ref="char:EOLhyphen"/>ed the Deponent) that none of the Fathers names was men<g ref="char:EOLhyphen"/>tioned in the buſineſs of theſe men, and thought they might ſafely return. So in the latter part of <hi>May</hi> they ſet forth for <hi>England,</hi> and got to <hi>London</hi> in the beginning of <hi>June;</hi> and then, concealing their Names and Lodgings, they began afreſh to conſult about this Fire, which was ſtill carried on by the Society in the abſence of theſe per<g ref="char:EOLhyphen"/>ſons, and determined by them in the Fire-time to cut off
+<pb n="24" facs="tcp:43679:20"/>the King, <hi>that the number of the Beaſt might be accom<g ref="char:EOLhyphen"/>pliſhed.</hi> In the uttering of which words the ſaid <hi>Strange</hi> broke out into a great Laughter. <hi>But,</hi> ſaid the ſaid Strange, <hi>to be ſhort, we got fifty or ſixty</hi> Iriſh <hi>to plye the work,</hi> and one <hi>Edw. Everard</hi> was very diligent to pre<g ref="char:EOLhyphen"/>ſerve their Fire-works which they had made, and put into Granado-ſhels: And the more to palliate this their deſign, they procured this <hi>Everard</hi> a place in the Kings Service, to look after the Ammunition that was to be carried down to the Fleet, it being in the time of the firſt <hi>Dutch</hi> Wars. And the ſaid <hi>Strange</hi> told the Deponent, That great At<g ref="char:EOLhyphen"/>tempts were made on the <hi>Tower,</hi> but without effect. <hi>But</hi> (ſaith <hi>Strange</hi>) <hi>to return to our ordering our Affairs, we were in Fee alſo with ſeveral French-men, who were faithful in the buſineſs:</hi> And all things being ready, and the place pitch'd upon, <hi>Strange</hi> removes his Quarters, and got to lye at a houſe in <hi>Fanchurch-ſtreet,</hi> and went by the name of <hi>Walker;</hi> and this he did in the Month of <hi>August,</hi> 1666. and with him he took <hi>Keimaſh,</hi> the <hi>Dominican,</hi> and lodged together. And <hi>Pennington</hi> and <hi>Barton</hi> lay at an Apothecaries Shop in <hi>Shoo-Lane;</hi> and <hi>Gray</hi> and <hi>Fitz Gerard</hi> lay at <hi>Neales</hi> houſe in <hi>White-Chappel;</hi> which <hi>Neale</hi> was one to ſee the Fire carried on through <hi>Thames-ſtreet,</hi> and ſo to the <hi>Tower.</hi> In a word the ſaid <hi>Strange</hi> told the Deponent, that they ſpent 700 Fire-Balls, and when, the Fire-Mer<g ref="char:EOLhyphen"/>chants were at work, then others (Men and Women) were employed to plunder what they could; and they had a Ware-houſe in <hi>Wild-street,</hi> where ſomethings ſo plundered were laid; and other things they concealed in <hi>Somerſet-houſe,</hi> as Hollands, Cambricks, fine Cloth, and ſome con<g ref="char:EOLhyphen"/>ſiderable quantities of Plate, and a Box of Jewels: The Owner gave the Box to theſe Men to carry away, and or<g ref="char:EOLhyphen"/>dered his Servant to go along with them, but they having encreaſed their number, ordered the Servant to be knockt down; but the Servant being afraid he ſhould be killed, ran away. This was the greateſt Plunder of one ſort they got; for (as the ſaid <hi>Strange</hi> informed the De<g ref="char:EOLhyphen"/>ponent) there were one thouſand Carracts of Diamonds
+<pb n="25" facs="tcp:43679:20"/>lapt up in ſeveral Papers for ſeveral <hi>Goldſmiths,</hi> and the Dia<g ref="char:EOLhyphen"/>monds were conveyed away to St. <hi>Omers,</hi> the firſt opportunity they met withall: But the Deponent asked the ſaid <hi>Strange</hi> how one Man ſhould truſt him with ſo much Goods, for never any Jeweller had ſo many Jewels at one time. The ſaid <hi>Strange</hi> replied, that he could not tell, but it was certain they met with them, and ſold them for 3500 <hi>l.</hi> ſterling in <hi>Flanders,</hi> and had a fiſh-dinner into the bargain at the <hi>Salutation Tavern</hi> in <hi>Holborn</hi> at the Return of the Money. The Deponent asked <hi>Strange,</hi> how the Fire began? and he told him, that <hi>Neal</hi> came and knockt him up at 12 of the Clock in the Night, and before he was dreſt the Fire was begun. The Deponent further asked the ſaid <hi>Strange,</hi> how many Servants the Society employed? He ſaid about 80 or 86, he could not tell well which. The Deponent asked how the King came to eſcape? The ſaid <hi>Strange</hi> replied, indeed they were reſolved to have cut him off, when at work in perſon about the Fire, but then they were not ſecure of the Duke, who then was but a well-wiſher to them, and beſides, they ſeeing the King ſo in<g ref="char:EOLhyphen"/>duſtrious could not find in their hearts to do it. Whilſt this Diſcourſe was in hand a Gentleman knockt at the door, and ſo we broke off, beginning at Nine of the Clock in the Morning, and ending at almoſt Eleven that Forenoon. And the Deponent went to his Lodging, which was then in <hi>Drury Lane.</hi>
+               </p>
+            </div>
+            <div n="35" type="part">
+               <head>XXXV. Item.</head>
+               <p>That <hi>Richard Aſhby,</hi> the day before he went down to the <hi>Bath,</hi> which was in the Month of <hi>July,</hi> had conference with Father <hi>Harcourt,</hi> Father <hi>Fenwick,</hi> Father <hi>Ireland,</hi> Father <hi>Keines,</hi> Father <hi>Strange,</hi> Mr. <hi>Jenniſon,</hi> Father <hi>Blundell,</hi> and others of the Society, by Order from the Pro<g ref="char:EOLhyphen"/>vincial, to ſend new Meſſengers into <hi>Scotland,</hi> to promote the Commotions there, and to inform the People of the great Tyranny they did lay under, by reaſon of their being denyed then Liberty of their Conſcience, and that not being to be
+<pb n="26" facs="tcp:43679:21"/>procured but by the Sword, they muſt take that courſe to purchaſe their Liberty. By which means (ſaid the Fathers thus aſſembled) we ſhall weaken both the Presbyterian and Epiſcopal Faction. At which Conference the Deponent was preſent, and heard theſe words.</p>
+            </div>
+            <div n="36" type="part">
+               <head>XXXVI. Item.</head>
+               <p>That in the Month of <hi>July,</hi> the ſaid <hi>Richard Aſhby,</hi> went down to the <hi>Bath,</hi> in order to be cured of his Gout, and on the Morning he went away, the Deponent being then in the Chamber of the ſaid <hi>Aſhby</hi> to take his leave of him; Father <hi>Harcourt,</hi> Rector of <hi>London,</hi> came to him, and told him, that if after he left the <hi>Bath,</hi> he could make a Progreſs into <hi>Somerſet-ſhire,</hi> to inform thoſe of the Society of the intended Deſign, it would do well, and with all deſired the ſaid <hi>Aſhby</hi> to haſten to Town after he had finiſhed the ſaid Information. All which the Deponent did hear.</p>
+            </div>
+            <div n="37" type="part">
+               <head>XXXVII. Item.</head>
+               <p>That on the firſt of <hi>Auguſt</hi> came Letters from <hi>Thomas Whitebread</hi> bearing Date <hi>July</hi> the 22, to <hi>John Fenwick,</hi> in which was, that he would that 15000 <hi>l.</hi> ſhould be propoſed to Sir <hi>George Wakeman,</hi> if he refuſed 10000 <hi>l.</hi> But whether Sir <hi>George</hi> hath been treated with about with about that Concern, the Deponent cannot inform here in this Article; but Sir <hi>George Wakeman</hi> hath been divers times in the Company of the ſaid <hi>Aſhby;</hi> and he ſaw the Letters to <hi>John Fewick</hi> on Fourth of <hi>Auguſt,</hi> 1678.</p>
+            </div>
+            <div n="38" type="part">
+               <pb n="27" facs="tcp:43679:21"/>
+               <head>XXXVIII. Item.</head>
+               <p>That Letters arrived to <hi>London</hi> bearing date <hi>Auguſt</hi> 5, 1678, from <hi>Thomas White</hi> or <hi>Whitebread,</hi> Provincial, to <hi>John Fenwick</hi> from St. <hi>Omers,</hi> in which he did inform the Fathers, that he had made his Viſit within his Province, and that he had ordered Twelve <hi>Jeſuits</hi> to go for <hi>Holland,</hi> and to inform the <hi>Dutch</hi> that the Prince of <hi>Orange</hi> did intend to aſſume the Crown of a King, and that he reſolved to bring them under another Government. Which Miſſioners took their leaves of the ſaid <hi>Thomas White</hi> on St. <hi>Ignatius</hi>'s day, <hi>July</hi> 31, but got no farther than <hi>Watton,</hi> by reaſon of a miſchance they met withall upon the way. By which miſſion the ſaid <hi>Thomas White</hi> did deſign to beget in the <hi>Dutch</hi> an evil Opinion of the Prince of <hi>Orange,</hi> and to cauſe a Commotion there amongſt the <hi>Dutch,</hi> againſt the ſaid Prince and his Party. Which Letter the Deponent ſaw and read in Mr. <hi>Fenwick</hi>'s Chamber on the <hi>Eleventh</hi> of <hi>Auguſt.</hi>
+               </p>
+            </div>
+            <div n="39" type="part">
+               <head>XXXIX. <hi>Item.</hi>
+               </head>
+               <p>That another Letter of the <hi>Tenth</hi> of <hi>Auguſt,</hi> came to <hi>Blundel</hi> and the Fathers in <hi>London,</hi> from <hi>Thomas Whitebread,</hi> in which he blamed the Fathers in <hi>London</hi> for not giving him an account of what progreſs they had made in their propoſal, made or to be made unto Sir <hi>George Wakeman;</hi> And if made, how he reſented it; If hot made, to make it quickly, for it would not be convenient to defer it; and told them, <hi>Ireland</hi> was ſafely arrived to him at St. <hi>Omers,</hi> who only told him, That the King was very ſecure; and therefore, he, the ſaid Provincial, admoniſhed the Fathers to be very vigilant. Which Letter <hi>Blundel</hi> ſhewed the Deponent on the <hi>Nineteenth</hi> of <hi>Auguſt.</hi>
+               </p>
+            </div>
+            <div n="40" type="part">
+               <pb n="28" facs="tcp:43679:22"/>
+               <head>XL. Item.</head>
+               <p>That another Packet of the 15th of <hi>Auguſt</hi> came from St. <hi>Omers,</hi> from <hi>Thomas White</hi> Provincial, to Father <hi>John Fenwick,</hi> in the which were Letters incloſed to Father <hi>Harcourt, Jenniſon</hi> and others, which the Deponent did not ſee; but that to <hi>John Fenwick</hi> the Deponent did ſee and read it. Therein the ſaid <hi>Thomas White</hi> did ſay, that the Figure 365 ſhould lie as low as ever 666 did; and if Poyſon would not take the King away, Fire ſhould, for Catholique Religion would never Flouriſh unleſs <hi>IHS</hi> took this Courſe. Now the Deponent ſaith that 365 is to be underſtood <hi>Weſtminiſter,</hi> and the Figure 666 <hi>London,</hi> they being the Ciphers for both thoſe places, and the letters <hi>IHS Jeſuits,</hi> they uſing it always.</p>
+            </div>
+            <div n="41" type="part">
+               <head>XLI. Item.</head>
+               <p>That the Deponent was informed by the ſaid <hi>John Fenwick</hi> and others of the Society, then in his Chamber, that the <hi>Jeſuits</hi> have 60000 l. <hi>per annum</hi> good Rents, and 100000 l. in Bank, and that he and the reſt of the Society have in the name of their Truſtees Lent out Mony at 50 l. <hi>per Cent.</hi> the improvement of which Money in Bank is uſed about theſe practices; and that it coſteth them 4000 l. <hi>per annum</hi> in intelligence, beſides their daily ſpecial Meſſengers, on which vaſt Sums of Mony are ſpent, and beſides another part is tranſported beyond the Seas by Bills of Exchange, which the Deponent himſelf knoweth in a great part to be true, and of the reſt they themſelves have informed him at ſeveral times: All which tends highly to the damage of the Kingdom.</p>
+            </div>
+            <div n="42" type="part">
+               <pb n="29" facs="tcp:43679:22"/>
+               <head>XLII. Item</head>
+               <p>That on <hi>Monday</hi> the 5th of <hi>Auguſt,</hi> Father <hi>Har<g ref="char:EOLhyphen"/>court,</hi> Father <hi>Keines, John Fenwick,</hi> and another of the Society, whoſe name the Deponent doth not remember, did ſay, that they did intend to raiſe a Commotion in the Kingdom of <hi>England</hi> and Dominion of <hi>Wales</hi> which alſo did appear to the Deponent by ſeveral Letters which the Deponent did ſee and read: The date of which Letters the Deponent doth not well remember, but ſaw them in <hi>Auguſt</hi> 1678.</p>
+            </div>
+            <div n="43" type="part">
+               <head>XLIII. Item.</head>
+               <p>That two new Meſſengers were ſent into <hi>Scotland,</hi> on the ſaid 5th of <hi>Auguſt;</hi> one by the name of Father <hi>Moore,</hi> and the other by the name of Father <hi>Saunders</hi> aliàs <hi>Brown,</hi> with inſtructions to carry themſelves like Nonconformiſt Miniſters, and to Preach to the diſaffected <hi>Scots,</hi> the neceſſity of taking up the Sword for the defence of Liberty of Conſcience. Theſe the Deponent ſaw diſpatch'd and or<g ref="char:EOLhyphen"/>der'd to go by Father <hi>Harcourt</hi> in the name of <hi>Thomas White</hi> Provincial.</p>
+            </div>
+            <div n="44" type="part">
+               <head>XLIV. Item</head>
+               <p>That they have ſeveral times communicated, and do ſtill communicate what ſecrets they can have revealed to them of the King, which they purchaſe by giving Mony, and then ſend them over to <hi>Leſhee</hi> the <hi>French</hi> Kings Confeſſor. And the Deponent hath ſeen ſeveral particulars (as they pretend) bow the King ſtandeth affected, for War or Peace: And this they do by one <hi>Smith,</hi> who daily lurketh about <hi>White-Hall,</hi> and in Parliament time about <hi>Weſtminſter-Hall</hi> and the Lobby. And the ſaid <hi>Smith</hi> did ſay, that he
+<pb n="30" facs="tcp:43679:23"/>was in fee with the Clerks of the Parliament, who give him the Intelligence, and with the Clerks Officers of the Privy Council and Cabinet Council. The Deponent ſaith further, that one <hi>Coleman</hi> formerly Secretary to her R. Highneſs doth aſſist this <hi>Smith,</hi> with private intelligence, as <hi>John Keines,</hi> Jeſuit, and this <hi>Smith</hi> have told the Deponent ſeveral times in the Months of <hi>July</hi> and <hi>Auguſt.</hi>
+               </p>
+            </div>
+            <div n="45" type="part">
+               <head>XLV. Item.</head>
+               <p>That theſe <hi>Jeſuits</hi> drive ſeveral Trades in Town, as <hi>Mer<g ref="char:EOLhyphen"/>chants, Tobacconiſts, Goldſmiths, Scriveners,</hi> and by means of their <hi>Scriveners</hi> they come to the knowledge of ſeveral Eſtates of ſeveral Perſons of Quality; and by other <hi>Scriveners,</hi> of their Religion and Practices: By which means they take an eſtimate of the ſtrength of the Nation, their <hi>Scriveners</hi> having great practice in the City of <hi>London,</hi> as <hi>John Keines</hi> informed the Deponent in the Month of <hi>Auguſt.</hi>
+               </p>
+            </div>
+            <div n="46" type="part">
+               <head>XLVI. Item.</head>
+               <p>That on <hi>Friday</hi> the 9th of <hi>Auguſt,</hi> came Letters of the 16th <hi>Stylo novo,</hi> by an eſpecial Meſſenger from <hi>Thomas White</hi> Provincial, and ſubſcribed by the Fathers at St. <hi>Omers;</hi> in which they did rejoyce very much that Sir <hi>George Wakeman</hi> had taken the buſineſs into his hand, and if he did it, the 15000 <hi>l.</hi> ſhould be paid: But ordered, that <hi>Pickering</hi> and his Companion <hi>viz.</hi> Honeſt <hi>William,</hi> ſhould not deſiſt their en<g ref="char:EOLhyphen"/>devouring to Aſſaſſinate the King's Perſon: Which Letters the Deponent read, and asked <hi>Fenwick,</hi> how the Provincial came to underſtand that Sir <hi>George Wakeman</hi> had undertaken the buſineſs? He the ſaid <hi>Fenwick</hi> told the Deponent, that they had diſpatched away a ſpecial Meſſenger, and that the ſaid Meſſenger brought this anſwer, and withal the ſaid <hi>Fenwick</hi> did tell the Deponent, that it coſt Ten pound to ſend him word of it.</p>
+            </div>
+            <div n="47" type="part">
+               <pb n="31" facs="tcp:43679:23"/>
+               <head>XLVII. <hi>Item.</hi>
+               </head>
+               <p>That becauſe one <hi>William Berry,</hi> now a Secular Prieſt, who had formerly been a <hi>Jeſuit,</hi> had written and was about to print ſome ſheets of Paper in Vindication of the Oaths of Alle<g ref="char:EOLhyphen"/>giance and Supremacy, and in it perſwaded Roman Catho<g ref="char:EOLhyphen"/>liques to a more charitable Compliance with Proteſtants, <hi>Baſil Langworth,</hi> and others of the Society, did offer 10 <hi>l.</hi> to the Deponent to kill the ſaid <hi>Berry;</hi> and if the Deponent dared not to do it himſelf, to procure ſome other to do it, aſſuring the Deponent, that whoſoever did it, and were queſtioned for it, ſhould have a Pardon. This was pro<g ref="char:EOLhyphen"/>poſed <hi>Auguſt</hi> 9th 1678.</p>
+            </div>
+            <div n="48" type="part">
+               <head>XLVIII. <hi>Item.</hi>
+               </head>
+               <p>That on the 9th of <hi>Auguſt</hi> in the evening in the Chamber of <hi>John Keines, Jeſuit,</hi> in <hi>Warwick-ſtreet,</hi> where <hi>John Fenwick</hi> and the Deponent were together, there came one <hi>Rich. Heath,</hi> a Lay-Brother of the Society, who after ſome Diſcourſe about the Deſign of Killing the King, did ſay, that he was a Baſtard, and did endeavour to rule by the Sword. Which Words the Deponent did hear, and ſo did <hi>Keines</hi> and <hi>Fenwick,</hi> who after one another replied, the Baſtard ſhould not trouble the World long.</p>
+            </div>
+            <div n="49" type="part">
+               <head>XLIX. <hi>Item.</hi>
+               </head>
+               <p>That on the Tenth of <hi>Auguſt, ſtyl. vet.</hi> the Deponent did meet with <hi>John Groves</hi> in <hi>Wild-street</hi> in the Afternoon, and as near as the Deponent can remember, it was about Five of the Clock, and he having made ſeveral promiſes to the Deponent, to give him an account of the Fire of <hi>South<g ref="char:EOLhyphen"/>wark</hi> in the Year 1676, the ſaid <hi>Groves</hi> took the Deponent into <hi>Wild-houſe</hi> Garden, and thus began. He ſaid that he had certain Fire-works made for that very purpoſe, and he with Three <hi>Iriſhmen,</hi> that were his Aſſiſtants, went
+<pb n="32" facs="tcp:43679:24"/>into the Borough, and not finding an opportunity nor a fit place, went to St. <hi>Margarets-Hill,</hi> where they found an Oyl-ſhop, which the ſaid <hi>Groves</hi> bragg'd he ſir'd. The Deponent asked the ſaid <hi>Groves,</hi> how he came acquainted with the ſaid <hi>Iriſhmen?</hi> He ſaid his acquaintance with them was not much, but they were procured by Dr. <hi>Fogarthy,</hi> the <hi>Iriſh</hi> Doctor, for which the Society (<hi>Richard Strange</hi> then Provincial) gave them 1000 <hi>l. viz.</hi> 400 <hi>l.</hi> to <hi>Groves,</hi> and 200 <hi>l.</hi> a piece to the Three <hi>Iriſhmen.</hi> And the ſaid <hi>Groves</hi> told the Deponent, that the Society got at leaſt 2000 <hi>l.</hi> by that fire, which was alſo told the Deponent at another time by <hi>Richard Strange.</hi>
+               </p>
+            </div>
+            <div n="50" type="part">
+               <head>L. <hi>Item.</hi>
+               </head>
+               <p>That on the Eleventh of <hi>Auguſt</hi> being <hi>Sunday,</hi> the De<g ref="char:EOLhyphen"/>ponent ſaw Letters from St. <hi>Omers,</hi> bearing date <hi>Auguſt</hi> 17th New ſtyle, written by Father <hi>Ireland,</hi> in the Name of the Provincial <hi>Thomas White</hi> aliàs <hi>Whitebread,</hi> to <hi>John Fenwick;</hi> in which Letter, by the Contents thereof, there were Letters to <hi>John Keines,</hi> Mr. <hi>Jenniſon,</hi> and Mr. <hi>Blundel,</hi> and others, which the Deponent did not ſee, but in this to <hi>John Fenwick</hi> it was ſpecified what diligence was uſed for the deſtruction of the Duke of <hi>Ormond,</hi> and for the procuring another demonſtration of zeal for the promoting the Catholick Religion and Intereſt in that Kingdom, and that which Arguments could not effect the Sword ſhould, to the great vexation of the Proteſtants there; and he intimated the great joy that he had, that there was yet great hopes, that the diſaffected <hi>Scots</hi> would not lay aſide their endeavours for and after the Defence of their Liberty and Religion, and that the Catholicks of <hi>Scotland</hi> had promiſed to uſe the utmoſt of their Intereſt to keep up the Commotions there; and the ſaid Father <hi>Ireland</hi> bad the ſaid <hi>Fenwick</hi> exhort the Fathers to be earneſt in their Deſigns, for now was the time that the <hi>Engliſh</hi> Nation was to be reduced. And furthermore ordered, in the Name of the Provincial, that Letters ſhould be written to all the Society in <hi>England,</hi> that they made it their buſineſs to encourage the Friends to braveneſs of mind, for that
+<pb n="33" facs="tcp:43679:24"/>God had hitherto given them ſuch a hopeful Proſpect of things, and that no Opportunity on his part was or ſhould be loſt, and that they in <hi>London</hi> (if they thought it fit to communicate theſe things) ſhould have a care that they did it to no more than to one at a time, leſt they ſhould be baffled in their Enterpriſe. Which Letter, when read by the <hi>Deponent,</hi> the ſaid <hi>Fenwick,</hi> to whom the Letter was di<g ref="char:EOLhyphen"/>rected, told the <hi>Deponent,</hi> that it was his Duty to offer up a Maſs or two, that God would proſper thoſe Holy Endea<g ref="char:EOLhyphen"/>vours of the Fathers of the Society, in promoting <hi>Catholick Religion</hi> and <hi>Faith;</hi> and told him further, That if he, the <hi>Deponent</hi> lived till <hi>Chriſtmas,</hi> he ſhould ſee a good Change of things, either that <hi>Forty Eight</hi> ſhould be taken from the World, or the World (eſpecially the little he was concern<g ref="char:EOLhyphen"/>ed in) ſhould be taken from him; And one that was a <hi>Catholick</hi> ſhould play ſuch a Game, as never was plaid ſince the Conqueſt. All which the ſaid <hi>Fenwick</hi> told the <hi>Deponent</hi> in his Chamber; and the <hi>Deponent</hi> asked the ſaid <hi>Fenwick,</hi> Who this Catholick was? And <hi>Fenwick</hi> ſaid it was the Duke of <hi>York.</hi> And the <hi>Deponent</hi> ſaith, the Ciphers 48 are put for the King.</p>
+            </div>
+            <div n="51" type="part">
+               <head>LI. Item.</head>
+               <p>That on the ſaid 11th. of <hi>Auguſt</hi> in the Evening, the <hi>De<g ref="char:EOLhyphen"/>ponent</hi> went to the Lodgings of <hi>John Keines,</hi> where he found another Jeſuit with him, whoſe Name the <hi>Deponent</hi> doth not remember, in whoſe preſence the ſaid <hi>John Keines</hi> told the <hi>Deponent</hi> that the <hi>Provincial</hi> had taken great care of Keeping Alive the Difference betwixt the Diſaffected <hi>Scots</hi> and Duke <hi>Lauderdale,</hi> and that the Affairs in <hi>Ireland</hi> went on with great Expedition, and that all Means were now uſed to beget a Difference betwixt the <hi>Dutch</hi> md the Prince of <hi>Orange,</hi> and if that could be effected, there was no queſtion to be made, but that the <hi>Proteſtant Intereſt</hi> would fail in <hi>Holland,</hi> and that <hi>Forty Eight</hi> would not laſt long in <hi>England,</hi> for it was high time to hinder <hi>Forty Nine</hi> from being effected: That <hi>Barly-Broth-Trade</hi> ſhould grow dead, and <hi>Twelve</hi> would be Cut off,
+<pb n="34" facs="tcp:43679:25"/>and that <hi>Mum</hi> and <hi>Chocolate</hi> ſhould be put down, and the <hi>Order of Mag-Pies</hi> ſhould be turned into their Primitive Inſti<g ref="char:EOLhyphen"/>tution and Habit. Now the <hi>Deponent</hi> ſaith, that the words [hinder <hi>Forty Nine</hi> from being effected] is an Odd Expreſ<g ref="char:EOLhyphen"/>ſion, that is amongſt them uſed for the <hi>Cutting off the King,</hi> that he may not live to be compleat <hi>Forty Nine</hi> Years of Age. And by <hi>Barley-Broth,</hi> is meant the Houſe of Commons, which ſhall be turned out and Sit no more. And by <hi>Mum</hi> and <hi>Cho<g ref="char:EOLhyphen"/>colate,</hi> is meant the Proteſtant Peers; which, if not deſtroy<g ref="char:EOLhyphen"/>ed, ſhall never have any Vote in the Houſe of Peers more, after the Death of this King. And by <hi>Mag-Pies,</hi> they un<g ref="char:EOLhyphen"/>derſtand the Biſhops, whoſe Habit in Parliament is Black and White, which ſhall be changed into Purple. And by <hi>Twelve,</hi> is meant the Duke of <hi>Monmouth.</hi>
+               </p>
+               <p>Whilſt the ſaid <hi>Keines</hi> with the other Jeſuit entertained the <hi>Deponent</hi> with theſe Treaſonable Expreſſions, Mr. <hi>Jonni<g ref="char:EOLhyphen"/>ſon</hi> came to the ſaid <hi>Keines,</hi> and told him, that he had loſt a Letter which he had received from <hi>Tho-white,</hi> the Provincial at St. <hi>Omers,</hi> in a Walk he took to <hi>Iſlington,</hi> and would give ten pounds to any friend that would give it him, and was afraid that ſome Inconvenience might follow; if found by ſome Heretick: Which words put the ſaid <hi>Keines</hi> into ſuch a Conſternation, that he asked him, Whether he had a mind to ruine them all: But <hi>Jenniſon</hi> bad the ſaid <hi>Keines</hi> be quiet, for none could underſtand it; which words the <hi>Deponent</hi> did likewiſe hear.</p>
+            </div>
+            <div n="52" type="part">
+               <head>LII. Item.</head>
+               <p>That Mr. <hi>Keines</hi> on the 12th. of <hi>August,</hi> determined to go for <hi>Windſor,</hi> in order to ſettle ſome buſineſs there in and towards the diſpatching <hi>Forty Eight</hi> (which the <hi>Deponent</hi> ſaith is by them underſtood the King) at <hi>Windſor,</hi> if the King ſhould go down thither. And it was judged that the ſaid <hi>Forty Eight</hi> would go to <hi>Windſor,</hi> to make his abode there for ſome weeks, but the ſaid <hi>John Keines</hi> told the <hi>Deponent,</hi> that he might chance to fall ſhort of his Return again. Theſe words were ſpoken by <hi>John Keines</hi> to the <hi>Deponent</hi> in his own
+<pb n="35" facs="tcp:43679:25"/>Chamber: But the ſaid <hi>Keines</hi> did not go down to <hi>Windſor</hi> ſo ſoon, as afterwards it appeared to the <hi>Deponent.</hi>
+               </p>
+            </div>
+            <div n="53" type="part">
+               <head>LIII. Item.</head>
+               <p>That <hi>Smith,</hi> within mentioned, lieth in <hi>Drury Lane,</hi> at one Mr. <hi>Lowds</hi> a Taylor, in <hi>Cock-pit Alley</hi> in the aforeſaid <hi>Lane,</hi> and is alſo imployed to go from houſe to houſe to ſee how the Catholicks ſtand affected: And <hi>Jenniſon</hi> ſaid, That if the Catholicks had Courage enough, they might Riſe and Cut the Throats of <hi>a hundred thouſand Proteſtants</hi> in <hi>London;</hi> which Expreſſion of the ſaid <hi>Jenniſon's,</hi> the ſaid <hi>Smith</hi> did tell the <hi>Deponent,</hi> asking the <hi>Deponent</hi>'s Opinion of the ſame: To which the <hi>Deponent</hi> did ſay, That Mr. <hi>Jenniſon</hi> talked like a Perſon that had more Heat than Light. The ſaid <hi>Smith</hi> did at the ſame time tell the <hi>Deponent,</hi> that the <hi>Society</hi> did give him <hi>fifty pound per annum</hi> for his Intelligence that he getteth of the Affairs of the Court, and of the King's Actions, Words and Counſels, and tranſmitteth the ſame to <hi>John Fenwick,</hi> which the ſaid <hi>Fenwick</hi> tranſmitteth to St. <hi>Omers,</hi> and there it is tranſ<g ref="char:EOLhyphen"/>lated into the <hi>French</hi> Tongue, and ſent to Father <hi>L' Chaiſe,</hi> the the <hi>French</hi> King's Confeſſor: Which daily Intelligence the <hi>Deponent</hi> did daily ſee from the ſaid <hi>Smith,</hi> he lodging in the ſame houſe with the <hi>Deponent.</hi> And the ſaid <hi>Smith,</hi> did at the ſame time tell the <hi>Deponent,</hi> that he was a Lay-brother, of the <hi>Society of Jeſus,</hi> and was of the Order of the <hi>Politians,</hi> as they term it, and attended Father <hi>Blundel</hi> to <hi>New-gate,</hi> in order to convert the Priſoners. All which the ſaid <hi>Smith</hi> did tell the <hi>Deponent</hi> on <hi>Auguſt</hi> the 12th, 1678. And likewiſe the ſaid <hi>Blundel</hi> did ſay as much to the <hi>Deponent,</hi> who hath ſeen the ſaid <hi>Blundel</hi> and <hi>Smith</hi> go together to <hi>Newgate.</hi>
+               </p>
+            </div>
+            <div n="54" type="part">
+               <head>LIV. Item.</head>
+               <p>That one <hi>Matthew Medburn,</hi> a Player in the <hi>Duke's</hi> Theater, and Mr. <hi>Penny,</hi> Mr. <hi>Mannock,</hi> Mr. <hi>Sharp,</hi> Mr. <hi>Seddon, Will. Smith</hi> School-Maſter at <hi>Iſlington,</hi> and Mr. <hi>Edw. Everard,</hi> meet<g ref="char:EOLhyphen"/>ing
+<pb n="36" facs="tcp:43679:26"/>in a Club on <hi>Thurſday Nights,</hi> and <hi>Sunday Nights,</hi> with one <hi>Jones</hi> a Prieſt, and <hi>Kemaſh</hi> within mentioned, and all theſe are employed by the Jeſuits to villify the Houſe of Com<g ref="char:EOLhyphen"/>mons, and go about the City of <hi>London</hi> to incenſe the Peo<g ref="char:EOLhyphen"/>ple againſt them and againſt the Biſhops of the Nation; And they deliver this Treaſonable Poſition; <hi>That the Com<g ref="char:EOLhyphen"/>mons Aſſembled in Parliament are the Devil's Repreſentatives and not the Nation's.</hi> Which Treaſonable and deteſtable words, the <hi>Deponent</hi> did hear in the ſaid Club (which is kept at the <hi>Phea<g ref="char:EOLhyphen"/>ſant</hi> in <hi>Fullers Rents</hi> near <hi>Grays Inne</hi>) in the Month of <hi>Auguſt.</hi> And the <hi>Deponent</hi> was ordered by the Jeſuits in <hi>London,</hi> to give the ſaid Perſons great Reſpects, and in their Names to thank the Club for their faithfulneſs to them in that par<g ref="char:EOLhyphen"/>ticular.</p>
+            </div>
+            <div n="55" type="part">
+               <head>LV. Item.</head>
+               <p>That Mr. <hi>Jenniſon</hi> did on the 12th <hi>Auguſt</hi> ſay and boaſt, that he had put ſeveral out of Love to the King's Intereſt, and would ſo continue, if that the King did not turn a <hi>Roman Catholick,</hi> and if the King did not become <hi>R. C.</hi> he ſhould not be <hi>C. R.</hi> long.</p>
+            </div>
+            <div n="56" type="part">
+               <head>LVI. Item.</head>
+               <p>That a <hi>Pacquet</hi> on <hi>Aug.</hi> 20th, New Style, arrived in <hi>Lon<g ref="char:EOLhyphen"/>don</hi> from <hi>Thomas White,</hi> Provincial, Mr. <hi>Stapleton,</hi> Mr. <hi>Nevil,</hi> Mr. <hi>Peters.</hi> Mr. <hi>Buſby</hi> Procurator, together with the Ma<g ref="char:EOLhyphen"/>ſters of the <hi>Humanity-Schools,</hi> to <hi>John Fenwick,</hi> in which it was ſpecified, That the twelve Jeſuits were gotten into <hi>Holland,</hi> and would uſe all their Skill and Intereſt to make a Commotion there: and that <hi>Apple-tree Will.</hi> (which the <hi>Depo<g ref="char:EOLhyphen"/>nent</hi> ſaith is meant the Prince of <hi>Orange</hi>) ſhould not be great, and that they hoped that the Fathers in <hi>London</hi> would follow their Buſineſs cloſely there. Which Letter the <hi>Deponent</hi> ſaw and Read.</p>
+            </div>
+            <div n="57" type="part">
+               <pb n="37" facs="tcp:43679:26"/>
+               <head>LVII. <hi>Item.</hi>
+               </head>
+               <p>That a. Pacquet went from <hi>London,</hi> dated <hi>Auguſt</hi> 12, in which the Provincial was informed by <hi>John Fenwick,</hi> and the reſt, that the King was gone or going for <hi>Winſor,</hi> and that the Fathers and honeſt <hi>William</hi> were ready to attend the Court there, as the <hi>Deponent</hi> was informed by <hi>John Fenwick</hi> above-named.</p>
+            </div>
+            <div n="58" type="part">
+               <head>LVIII. Item.</head>
+               <p>That on <hi>Auguſt</hi> 13 in the afternoon, about ſix of the Clock, a Sermon was preached by <hi>John Keines</hi> to twelve perſons, Men in poor Habits, yet men of quality, as the <hi>De<g ref="char:EOLhyphen"/>ponent</hi> doth ſuppoſe by the whiteneſs of their hands; in which Sermon he delivered, <hi>That Proteſtant and other Heretical Prin<g ref="char:EOLhyphen"/>ces were</hi> ipſo facto <hi>depoſed, becauſe ſuch; and that it was as law<g ref="char:EOLhyphen"/>ful to Deſtroy them as an</hi> Oliver Cromwel, <hi>or any other Uſurper.</hi> At which Sermon the <hi>Deponent</hi> was preſent, not deſignedly, but by accident.</p>
+            </div>
+            <div n="59" type="part">
+               <head>LIX. Item.</head>
+               <p>That on the 15th of <hi>August John Keines</hi> and <hi>John Fenwick,</hi> went to a Gentleman in or about <hi>Westminſter,</hi> and perſwa<g ref="char:EOLhyphen"/>ded him to remove from his quarters, leſt God ſhould de<g ref="char:EOLhyphen"/>ſtroy him with the Sinners of that City; for God had raiſed him and others of that Society to do ſuch things againſt that City, as ſhould make a man's Ears ring that ſhould hear it. The ſame day towards the Evening the ſaid <hi>John Keines</hi> and <hi>John Fenwick</hi> told the <hi>Deponet</hi> the ſaid ſtory, and laughed to think what a fright the ſaid Gentleman was put into. And they told the <hi>Deponent</hi> the Name of the ſaid Gentleman, but he hath forgot it.</p>
+            </div>
+            <div n="60" type="part">
+               <pb n="38" facs="tcp:43679:27"/>
+               <head>LX. Item.</head>
+               <p>That <hi>John Keines</hi> came to the Lodgings of the <hi>Deponent,</hi> on <hi>Saturday Auguſt</hi> 17, and ſaid it was endeavoured to diſ<g ref="char:EOLhyphen"/>patch <hi>Forty Eight</hi> at <hi>Windſor,</hi> if poſſible (by which number the <hi>Deponent</hi> ſaith, they mean the King) and withal told the <hi>Deponent,</hi> That Mr. <hi>Howard,</hi> Prior of the <hi>Benedictines,</hi> and Mr. <hi>Hitchcock</hi> Subprior, and Mr. <hi>Skinner,</hi> Mr. <hi>Corker,</hi> and other <hi>Benedictines,</hi> had promiſed to aſſiſt them with 6000 <hi>l.</hi> in order to the deſign. The ſaid Monks did then lye at or near the <hi>VVardrobe</hi> behind the <hi>Savoy;</hi> which report the <hi>De<g ref="char:EOLhyphen"/>ponent</hi> did believe, becauſe the ſaid Mr. <hi>Howard,</hi> Prior of the <hi>Benedictines,</hi> and Mr. <hi>Hitchcock</hi> Sub-prior, told the <hi>Deponent</hi> in the morning, <hi>Auguſt</hi> 17, that they had promiſed ſuch a ſumme, and withall that the ſecuring of his Majeſties perſon in his Flight from <hi>Worceſter</hi> was the worſt days work that ever ſimple, Jack <hi>Huddleſtone</hi> did in all his Life. But now it was their buſineſs to get the <hi>Stuarts</hi> out of the way: which the <hi>Deponent</hi> related to <hi>John Keines,</hi> and then <hi>Keines</hi> did tell the <hi>Deponent,</hi> that if he would undertake to aſſist in the diſpatch<g ref="char:EOLhyphen"/>ing of the King, he ſhould be well rewarded, if not here, in Heaven: and the <hi>Deponent</hi> replyed that he never ſhot off a Gun in his Life, and withal told <hi>Keines</hi> that he could not be guilty of ſuch a thing for the World. And then the ſaid <hi>Keines</hi> did further inform the <hi>Deponent,</hi> that Mr. <hi>Coniers</hi> a <hi>Be<g ref="char:EOLhyphen"/>nedictine</hi> Monk was reſolved to purſue the Deſign of diſpatch<g ref="char:EOLhyphen"/>ing the King, which did appear to be evidently true to the <hi>Deponent,</hi> becauſe he did hear the ſaid <hi>Coniers</hi> on the 14th of <hi>Auguſt</hi> lay a Wager of a 100 <hi>l.</hi> with a Gentleman not known to the <hi>Deponent,</hi> in the <hi>Benedictine Convent</hi> in the <hi>Savoy:</hi> ten Guinies were depoſited in the hands of <hi>Hitchcock</hi> Subprior of the <hi>Benedictines<g ref="char:punc">▪</g>
+                  </hi> Now the wager which <hi>Coniers</hi> did lay was, That the <hi>Villain,</hi> the <hi>KING,</hi> ſhould not live to eat any more Chriſtmas Pies; and the other Gentleman did lay that he would: So that the <hi>Deponent</hi> ſaith, That <hi>Keines</hi> told him no more of the Concern of <hi>Coniers,</hi> than the <hi>Deponent</hi> had heard of the ſaid <hi>Coniers</hi> before, on the 14th of <hi>Auguſt.</hi>
+                  <pb n="39" facs="tcp:43679:27"/>But the <hi>Deponent</hi> before he parted from <hi>Keines,</hi> asked him, What news about the Town? <hi>Keines</hi> replyed, That all the news about the Town was, <hi>War with the French:</hi> and <hi>Keines</hi> did ſay, that if that held true, then <hi>Have at the Rogues of the Houſe of Commons,</hi> they ſhould be remembred for all their Long Bills againſt the Catholicks. The <hi>Deponent</hi> replyed, that (with ſubmiſſion) he thought the Revenge propoſed againſt them would not do the buſineſs, and therefore not a Reſolution conſiſtent with a Catholick Spirit, for the En<g ref="char:EOLhyphen"/>terpriſe muſt be more Noble: And withal the <hi>Deponent</hi> urged, that he feared the Death of the King would ſcarcely do the business and effect the Design, unleſs his R. Highness would pardon thoſe that did the buſineſs, and ſtand by them in it. To which the ſaid <hi>Keines</hi> reply'd, that the Duke was not the ſtrength of their Truſt, for they had another way to effect the ſetting up the <hi>Catholick Religion:</hi> For when they had deſtroyed the King, they had a Liſt of 20000 <hi>Catholicks</hi> in <hi>London,</hi> that were ſubſtantial perſons and fit for Arms, that would Riſe in twenty four hours time and leſs: And if <hi>James</hi> did not comply with them, to Pot he muſt go alſo.</p>
+               <p>It being late in the Night, the ſaid <hi>John Kienes</hi> prayed the <hi>Deponent</hi> to come to him the next morning, and he would have one hours diſcourſe with him before he went to Maſs, and being about to take leave of the <hi>Deponent,</hi> asked him, What he meant by thoſe Words [He could not be guilty of any ſuch thing, as to aſſiſt in diſpatching the King] there being no guilt in the Caſe; the <hi>Deponent</hi> ſmiled and ſaid, He could not be guilty of ſo much Courage. Beſides the <hi>Deponent</hi> ſaith, That he told the ſaid <hi>Keines,</hi> that it was his opinion, that it would be more ſafe to let Sir <hi>George Wakeman</hi> try his skill, and then the People would not apprehend it ſo much.</p>
+            </div>
+            <div n="61" type="part">
+               <pb n="40" facs="tcp:43679:28"/>
+               <head>LXI. Item.</head>
+               <p>That the <hi>Deponent</hi> went to the Chamber of the ſaid <hi>Keines</hi> about eight or nine in the morning, on the 18th of <hi>August,</hi> but he was gone abroad, and ordered the <hi>Deponent</hi> to call upon him about four in the afternoon, and then he would have ſome diſcourſe with him: And the <hi>Deponent</hi> according<g ref="char:EOLhyphen"/>ly went, but met with the ſaid <hi>Keines</hi> in the: <hi>Mews,</hi> who told the <hi>Deponent</hi> that he was to meet with ſome Fathers in <hi>Covent Garden,</hi> and there would meet them, ſome <hi>Dominicans,</hi> and would have the <hi>Deponent</hi> go along with him, and at the Houſe where they were appointed to meet, the <hi>Dominicans</hi> were already met, <hi>viz.</hi> Mr. <hi>Vincent,</hi> Provincial of the <hi>Domi<g ref="char:EOLhyphen"/>minicans</hi> in <hi>England, Joſeph David Keimaſh,</hi> Mr. <hi>Dominick,</hi> Mr. <hi>Collins,</hi> Mr. <hi>Fedding,</hi> Mr. <hi>Manſel,</hi> and Mr. <hi>Lumſdale</hi> (as they ſaid) in the Name of all the reſt of the Order in <hi>England,</hi> to conſult and comply with the Fathers; of the Society to propa<g ref="char:EOLhyphen"/>gate the <hi>Catholick Faith;</hi> and when <hi>John Keines</hi> was ſet, with the Fathers of the Society by him, all of a ſide, <hi>viz. John Keines,</hi> Father <hi>Harcourt,</hi> Fa. <hi>Fenwick,</hi> Fa. <hi>Wright,</hi> Fa. <hi>Blundel,</hi> the ſaid <hi>John Keins</hi> propounded to the <hi>Dominicans</hi> to contri<g ref="char:EOLhyphen"/>bute to the deſign of killing the King, and carrying on the buſineſs of <hi>England</hi> and <hi>Scotland:</hi> The <hi>Dominicans</hi> repli<g ref="char:EOLhyphen"/>ed by their Provincial, that they were poor and not able to do much, for they had but little or no money, but they would let them have their perſonal aſſistance and counſel, and would procure what Intereſt they could, but as for Mony they could not part with any at all, for they were in debt, and had ſcarce 400 <hi>l.</hi> in ſtock, and the moſt they could make <hi>per annum</hi> of their, Eſtate, was not above 360 <hi>l.</hi> At which Conſult the <hi>Deponent</hi> was to and fro, and what was more ſaid he cannot tell, for he was ſent with the Propoſals to the <hi>Carmelites, viz.</hi> Dr. <hi>Handſon,</hi> Mr. <hi>Kim<g ref="char:EOLhyphen"/>bal,</hi> Mr. <hi>Trevers,</hi> and they ſaid that they had not one penny in ſtock, nor any In-come beſideſ what the <hi>Spaniſh</hi> Embaſſador allowed them for aſſisting in his Chappel.</p>
+               <pb n="41" facs="tcp:43679:28"/>
+               <p>But they by the Deponent did preſent their Service to the Fathers met together, and bad the Deponent tell them, that their Prayers to God and our Bleſſed Lady ſhould not be wanting: All this was acted by Order from the Provin<g ref="char:EOLhyphen"/>cial of the Society.</p>
+            </div>
+            <div n="62" type="part">
+               <head>LXII. <hi>Item.</hi>
+               </head>
+               <p>That the Deponent went to ſee <hi>John Fenwick</hi> on <hi>Auguſt</hi> Nineteenth in the afternoon; and whilſt he was with him, in came <hi>John Keines,</hi> and preſently after him Mr. <hi>Blundel;</hi> and after a Salutation was paſſed, they asked the Deponent, <hi>What Newes?</hi> The Deponent told them, he heard none but what was in the <hi>Gazett:</hi> And <hi>Blundel</hi> ſaid, he had been with his Workmen, and they wanted Oyle: What the meaning of this was, the Deponent can<g ref="char:EOLhyphen"/>not tell, but believes it was <hi>Sheeps Fat;</hi> and the ſaid <hi>Blundel</hi> would not tell the Deponent his meaning when asked by him. The Deponent asked <hi>Keines,</hi> When he was for <hi>Windſor?</hi> He replied, The Court was ſcarcely ſetled as yet; but ſaid, that Mr. <hi>Conyers</hi> and one <hi>Anderſon</hi> was to go down on the morrow <hi>Aug.</hi> 20. in the morning; and if they did any thing as to the buſineſs in hand, it would haſten his going down; and therefore as yet, could not be certain when. The Deponent asked further, How honeſt <hi>VVilliam</hi> did? <hi>Keines</hi> replyed that he was troubled with a ſore Throat, and was very bad with it; and ſo indiſpos'd, that he could not Ride down to <hi>VVindſor;</hi> and that it would be dangerous for him to go by water, leſt a Cold being by that means Contracted, he ſhould be unfit for Service. And then the Deponent took his leave of them, it being near ſix of the Clock in the afternoon, and went to the <hi>Monkes</hi> Convent, and inquired of one <hi>Rumly</hi> a Lay-brother of that Order, for Mr. <hi>Conyers;</hi> he ſaid, he was not within, but not far off; however, not to be ſpoken withal, for he was with ſome of the <hi>Benedictine</hi> Fathers about buſineſs, and would go out of Town to morrow betimes hi the mor<g ref="char:EOLhyphen"/>ning: And ſo the Deponent left him, and being but a little way from the place met the ſaid <hi>Conyers;</hi> who laugh<g ref="char:EOLhyphen"/>ing
+<pb n="42" facs="tcp:43679:29"/>upon the Deponent, told him, That the Hill People were Fools, to ſet upon 48. at <hi>Windſor,</hi> becauſe he was ſeldome in a poſture to receive their kindneſs: But he would ſee his Worſhip, and talk with him in ſome other Language than in <hi>Tormentilio:</hi> The Deponent asked, How? He Replied, that if the ſhirt on his back ſhould know, he would burn it. But if that ſhould not take ef<g ref="char:EOLhyphen"/>fect, no opportunity ſhould be neglected in order to the diſpatch of 48. He further told the Deponent, he was in haſt, and his time was ſhort, and his buſineſs great; but told him alſo, that honeſt <hi>William</hi> and <hi>Pickering</hi> ſhould ſtay in Town, ſeeing the party concern'd was <hi>Hic &amp; ubi<g ref="char:EOLhyphen"/>que,</hi> never long in one place.</p>
+            </div>
+            <div n="63" type="part">
+               <head>LXIII. <hi>Item.</hi>
+               </head>
+               <p>That on <hi>Wedneſday</hi> twenty firſt of <hi>Auguſt,</hi> a Conſult was held by the Jeſuits then in <hi>London,</hi> with certain <hi>Be<g ref="char:EOLhyphen"/>nedictine Monkes,</hi> about three of the Clock in the after<g ref="char:EOLhyphen"/>noon, concerning a Pacquet that came from <hi>Talbot,</hi> Arch<g ref="char:EOLhyphen"/>biſhop of <hi>Dublin,</hi> to the fathers of the Society: In which they were given to underſtand, that Four <hi>Iriſh Jeſuits</hi> had undertaken the death of the Duke of <hi>Ormond;</hi> and that up<g ref="char:EOLhyphen"/>on his death, the <hi>Iriſh</hi> were ready to riſe. In this Letter he told them, that a <hi>Legate</hi> was arrived in <hi>Ireland,</hi> and had aſſerted the <hi>Popes</hi> right in that Kingdom; and that the Kings of <hi>England</hi> being no longer <hi>Catholiques,</hi> they did ceaſe from being concerned there; it being given to them during the good pleaſure of his Holineſs; and therefore did incourage the ſaid <hi>Arch-Biſhop</hi> to contrive and uſe all means for the recovery of the ſaid Kingdom out of the hands of the <hi>Eng<g ref="char:EOLhyphen"/>liſh.</hi> And in the ſaid Letter it was mentioned, That if op<g ref="char:EOLhyphen"/>portunity did not permit the ſaid <hi>Jeſuits</hi> to do their buſineſs, that then they ſhould ſend one Doctor <hi>Fogarthy,</hi> now lodg<g ref="char:EOLhyphen"/>ing at Mrs. <hi>Simmonds,</hi> the Widow of one <hi>Simmonds</hi> an Apo<g ref="char:EOLhyphen"/>thecary in <hi>Drury-Lane,</hi> and that he and the Fathers in <hi>Ireland,</hi> together with the ſaid <hi>Fogarthy,</hi> would find out an expedi<g ref="char:EOLhyphen"/>ent way for the death of the ſaid Duke. And further<g ref="char:EOLhyphen"/>more
+<pb n="43" facs="tcp:43679:29"/>he did ſpecify, that they had procured ſeveral <hi>Iriſh</hi> to be made Commiſſion-Officers in the Garriſons in <hi>Ireland;</hi> and that he and the reſt had diſpenced with them to take the Oaths of <hi>Allegiance</hi> and <hi>Supremacy.</hi> And that the <hi>Iriſh,</hi> who had gotten Commiſſions by means of the <hi>Arch-Biſhop,</hi> had promiſed to betray their intereſt into their hands, when the buſineſs ſhould be ripe; and deſired the Fathers to be as diligent in <hi>England,</hi> as he and the reſt of the Clergy were in <hi>Ireland:</hi> which Letter <hi>John Keines</hi> did ſhew the De<g ref="char:EOLhyphen"/>ponent, and was read by the Deponent: And <hi>Kenies</hi> and <hi>Blundel</hi> gave him an account of the Conſult; and the ſaid <hi>Fogarthy</hi> did himſelf tell the Deponent the ſame, and on the ſaid <hi>Twenty firſt</hi> of <hi>Auguſt,</hi> did ſay, That he had a great in<g ref="char:EOLhyphen"/>tereſt in the Court of <hi>Ireland.</hi>
+               </p>
+            </div>
+            <div n="64" type="part">
+               <head>LXIV. <hi>Item.</hi>
+               </head>
+               <p>That the ſaid <hi>Fogarthy</hi> is a main Agent in this Helliſh-Plot, and hath promiſed, That if this Biſhop <hi>Talbot</hi> will make uſe of him, he will do all the ſervice he can: which the Deponent is ready to juſtify to the face of the ſaid <hi>Fo<g ref="char:EOLhyphen"/>garthy;</hi> who did tell the Deponent, that he and <hi>Coleman</hi> were in the Conſult, when <hi>Wakeman</hi> was contracted withal in or<g ref="char:EOLhyphen"/>der to Poyſon the KING; and ſaid, That if he had the intereſt in the KING, as <hi>Wakeman</hi> had, he would have un<g ref="char:EOLhyphen"/>dertaken it himſelf. And all this was told the Deponent on the <hi>Twenty firſt</hi> of <hi>Auguſt,</hi> in die Chamber of the ſaid <hi>Fogarthy.</hi> And furthermore, the ſaid <hi>Fogarthy</hi> then and there did tell the Deponent, That he had hired Four <hi>Iriſh</hi> Ruſſi<g ref="char:EOLhyphen"/>ans, whoſe Names he did neither tell the Conſulters that met on the <hi>Twenty firſt</hi> of <hi>Auguſt,</hi> nor the Deponent, and theſe <hi>Iriſh</hi> Ruſſians were to mind the KING's Poſtures at <hi>Windſor:</hi> But the Deponent telling the ſaid <hi>Fogarthy,</hi> that he heard the KING was going to <hi>Portſmouth,</hi> he was won<g ref="char:EOLhyphen"/>derfully troubled at it, and ſaid, It did very much im<g ref="char:EOLhyphen"/>pede their Deſign, and nothing would be Attempted ſo long as he was abſent from <hi>Windſor.</hi>
+               </p>
+            </div>
+            <div n="65" type="part">
+               <pb n="44" facs="tcp:43679:30"/>
+               <head>LXV. <hi>Item.</hi>
+               </head>
+               <p>That the Lord Embaſſador, Sr. <hi>William Godolphin</hi> at the Court of <hi>Spain,</hi> holdeth great Correſpondence with <hi>Hierom Swiman</hi> the <hi>Iriſh</hi>-Jeſuit (who as beforementioned, was Procurator for the Jeſuits of the Kingdom of <hi>England</hi> and <hi>Ireland</hi>) and with the <hi>Iriſh</hi> Arch-Biſhop of <hi>Tuam</hi> now at <hi>Madrid;</hi> and is a friend in this buſineſs, as the ſaid <hi>Swiman</hi> did inform the Society in one of <hi>July</hi> the thirtyeth <hi>New-ſtyle;</hi> and likewiſe in one to the Deponent, wherein he did ſpe<g ref="char:EOLhyphen"/>cify, that Sir <hi>William</hi> was as induſtrious as any Man could be, to anſwer the expectation of the Society; and that he had but one Proteſtant-ſervant then in his Houſe, <hi>viz.</hi> the <hi>Cook,</hi> and the <hi>Parſon</hi> (when there) made up a goodly Couple: And the Deponent knows, that <hi>Godolphin</hi> is a Papiſt, and hath perverted a Kinſman of his own; and the Deponent knoweth, that the ſaid Em<g ref="char:EOLhyphen"/>baſſador is very familier to the ſaid perſons, the <hi>Iriſh</hi> Je<g ref="char:EOLhyphen"/>ſuit at <hi>Madrid,</hi> and the <hi>Iriſh</hi>-Arch-Biſhop of <hi>Tuam.</hi> And the Deponent doth verily believe, that Mr. <hi>Hodges,</hi> ſome<g ref="char:EOLhyphen"/>times Chaplain to the ſaid Lord Embaſſador, can, if re<g ref="char:EOLhyphen"/>quired, Teſtify as much; and the Deponent doth fur<g ref="char:EOLhyphen"/>they ſay, That when he was at <hi>Madrid,</hi> the ſaid Chap<g ref="char:EOLhyphen"/>lain of the Embaſſador left the employ, becauſe of the Embaſſador's being a Papiſt; and the Deponent hath ſeen the ſaid Embaſſador at Maſſ; and he hath a Jeſuit that comes to his Houſe, who hath Read both Philoſo<g ref="char:EOLhyphen"/>phy and Divinity to the ſaid Embaſſador; of which the Deponent was perſonally informed by the ſaid <hi>Hierome Swiman</hi> an <hi>Iriſh</hi> Jeſuit, and by the ſaid <hi>Iriſh</hi> Arch-Biſhop when at <hi>Madrid:</hi> but the Letters of which the Depo<g ref="char:EOLhyphen"/>nent ſpeaks, he ſaw and Read them at Mrs. <hi>Saunders</hi> Houſe in Wild ſtreet the Twenty ſecond of <hi>Auguſt.</hi>
+               </p>
+            </div>
+            <div n="66" type="part">
+               <pb n="45" facs="tcp:43679:30"/>
+               <head>LXVI <hi>Item.</hi>
+               </head>
+               <p>That on the 22th of <hi>Auguſt,</hi> Money was ſent from the Society, by a Servant of theirs, to ſupply the Expences of the four <hi>Iriſh</hi> Ruſſians above-mentioned, who were gotten to <hi>Windſor</hi> on the 21th at night; and the ſum ſo ſent was Eighty pound, which the Deponent ſaw told: And they were written to, and informed, that if more were wanting, they ſhould have it. And they were bidden not to be frequent in one anothers Company, and always to profeſs but ſmall Acquaintance one with another. Which Order and Money was diſpatcht away by <hi>Harcourt,</hi> Rector of <hi>London,</hi> in the name of the Provincial and whole So<g ref="char:EOLhyphen"/>ciety.</p>
+            </div>
+            <div n="67" type="part">
+               <head>LXVII <hi>Item.</hi>
+               </head>
+               <p>That the Deponent went to the Chamber of the ſaid <hi>John Fenwick,</hi> who told him, that he was to go to St. <hi>O<g ref="char:EOLhyphen"/>mers</hi> with ſome Students thither, (about ten or eleven, as near as the Deponent can remember:) and the ſaid <hi>Fenwick</hi> was to attend the Provincial, and was to return, as he ſaid, within tenor twelve days, together with <hi>Mico</hi> and the reſt. And whilſt the Deponent was with the ſaid <hi>Fenwick,</hi> a Meſſenger came in, viz. <hi>John Grove,</hi> with order from <hi>Harcourt</hi> Rector of <hi>London, John Keines, Richard Blundell,</hi> Mr. <hi>Jenniſon,</hi> Mr. <hi>Wright, Baſill Lang<g ref="char:EOLhyphen"/>worth,</hi> and four other Jeſuits that lay at <hi>Somerſet</hi> houſe, to pray the Provincial that he would write to <hi>Leſhee</hi> the French King's <hi>Confeſſarius,</hi> and give him to underſtand how well the buſineſs in <hi>Ireland</hi> ſtood: and that in his Letters to <hi>Leſhee,</hi> he ſhould pray him to certifie the French King thereof. The Deponent asked <hi>Grove</hi> where thoſe Fathers were met? Who ſaid, they met again at
+<pb n="46" facs="tcp:43679:31"/>Mrs. <hi>Sanders</hi> houſe. And the Deponent, after he had read the Order or Memorial, (as indeed the Title was) and ſaw their Names, about two in the Afternoon, went to the houſe of Mrs. <hi>Sanders,</hi> where the Deponent ſaw thoſe Fa<g ref="char:EOLhyphen"/>thers, who told him of the ſaid Order, and after a ſhort ſtay, took his leave of them; and by them was ordered to meet them at four of the Clock at Mr. <hi>Keines</hi> his Cham<g ref="char:EOLhyphen"/>ber. And at four of the Clock the Deponent met; where he ſaw Dr. <hi>Fogarty,</hi> who ſhewed him a Letter written to Mr. <hi>Bedingfield</hi> by his own hand. And likewiſe the De<g ref="char:EOLhyphen"/>ponent ſaw Letters from <hi>Blundell</hi> and <hi>John Fenwick,</hi> with one from Father <hi>Ireland,</hi> at St. <hi>Omers.</hi> That of Dr. <hi>Fogarty</hi> to Mr. <hi>Bedingfield,</hi> did contain in it an account of Eighty Letters that were written to the Jeſuits in <hi>Eng<g ref="char:EOLhyphen"/>land;</hi> ſome of which were delivered to the Poſt-office in <hi>Ruſſel-ſtreet;</hi> others to the Poſt-office General; others were ſent by private Meſſengers; and one to Mr. <hi>Peters</hi> a Jeſuit, that liveth now with Sir <hi>Charles Shelly</hi> in <hi>Suſſex,</hi> that married the Relict of the Baron of <hi>Abergaveny:</hi> In which the ſaid <hi>Peters</hi> was ordered to meet the Provincial at <hi>London,</hi> about the Deſigne in hand: which if it took not effect at <hi>Windſor</hi> ſpeedily, then <hi>John Keines</hi> was to go to <hi>Windſor</hi> to meet with <hi>Coniers,</hi> who was deſigned to go out of Town on the 20th of <hi>Auguſt</hi> with Mr. <hi>Ander<g ref="char:EOLhyphen"/>ton</hi> to 440, (which number is by them put for <hi>Windſor:</hi>) And after their buſineſs was done in <hi>Keines</hi> his Chamber, the Deponent left them.</p>
+            </div>
+            <div n="68" type="part">
+               <pb n="47" facs="tcp:43679:31"/>
+               <head>LXVIII <hi>Item.</hi>
+               </head>
+               <p>That the Deponent being to meet with Dr. <hi>Tonge</hi> on the 22th of <hi>Auguſt,</hi> at the Kings head in <hi>Grays-Inne-lane,</hi> about ſix of the Clock at night, accordingly went; and fin<g ref="char:EOLhyphen"/>ding that the ſaid Doctor was not there, he walked in <hi>Grays-Inne-walks,</hi> and there he met with <hi>Coniers,</hi> who was ſuppoſed to be gone to <hi>Windſor.</hi> The Deponent asked him, how it happened that he did not go his Journey? he replied, that his horſe fell ſo lame, that he could ſcarce carry him five miles on the way, and ſo was forced to re<g ref="char:EOLhyphen"/>turn; and that he himſelf was taken ill with the Sciatica, which had given him great trouble for all the night be<g ref="char:EOLhyphen"/>fore. The Deponent was then urgent with him to tell him how he would kill the King, ſeeing he did laugh at the means the Fathers intended to uſe, <hi>viz.</hi> by ſhooting him. Then the ſaid <hi>Coniers,</hi> by reaſon of the Deponents importunity, ſhewed him a Dagger or Knife two edged, with a very ſharp point; and it was broader and broader towards the haft, which was of Buckhorn, and was a foot long in the blade, and neer half a foot in the haft. With this (ſaid he) the Villain ſhall fall to the ground, if poſ<g ref="char:EOLhyphen"/>ſible. <hi>Coniers</hi> demanded of the Deponent, what he thought it might coſt him? the Deponent ſaid, he could not tell: <hi>Coniers</hi> replied, Ten ſhillings, or thereabouts. The De<g ref="char:EOLhyphen"/>ponent told him it was too dear: he replied, Nothing could be too dear for the King. The Deponent asked him where he bought it? <hi>Coniers</hi> replied, Of the old Cutler in <hi>Ruſſel-ſtreet.</hi> The Deponent asked him why he would have it ſo long? he replied, That the Villain might fall by it. The Deponent asked, How? he replied, Through my Cloak will I ſtab him. The Deponent asked him, how he thought to eſcape? <hi>Coniers</hi> anſwered, that he doubted not but to obtain a Pardon, if he were not knockt on the head upon the place. The Deponent, after ſome diſcourſe, went to the Kings head, where he met with Dr. <hi>Tonge</hi> between ſix and ſeven of the Clock.</p>
+            </div>
+            <div n="69" type="part">
+               <pb n="48" facs="tcp:43679:32"/>
+               <head>LXIX <hi>Item.</hi>
+               </head>
+               <p>That the Deponent did on the 22th of <hi>Auguſt,</hi> about nine of the Clock, meet with <hi>Blundell;</hi> and ſeeing him have a Bag, asked him what he had? and he replied, <hi>Tewxbury</hi> Muſtard-balls, a notable biting Sawce, and would furniſh <hi>Weſtminſter</hi> when he had enough of them. The Depo<g ref="char:EOLhyphen"/>nent ſaith, that by <hi>Tewxbury</hi> Muſtard-balls, we are to un<g ref="char:EOLhyphen"/>derſtand, Fire-balls.</p>
+            </div>
+            <div n="70" type="part">
+               <head>LXX <hi>Item.</hi>
+               </head>
+               <p>That on the 24th of <hi>Auguſt, Blundell</hi> told the Deponent in <hi>Fenwick</hi>'s Chamber, that it would be ſo ordered by the Society, that the Catholicks of <hi>England</hi> would advance the deſigne of ſhortning the Kings days; and bad the Depo<g ref="char:EOLhyphen"/>nent be of good Cheer, for Proteſtant Religion was on its laſt legs.</p>
+            </div>
+            <div n="71" type="part">
+               <head>LXXI <hi>Item.</hi>
+               </head>
+               <p>That the Deponent met with <hi>Blundell</hi> on <hi>Auguſt</hi> the thirtieth, who told him, that he muſt ſhew him what <hi>Weſt<g ref="char:EOLhyphen"/>minſter,</hi> and the houſes on both ſides the Water, were to be done withal; and carried him to <hi>Fenwick</hi>'s Cham<g ref="char:EOLhyphen"/>ber, and there drew out of a Paper-Caſe a Paper, in which was the manner of Firing <hi>Weſtminſter</hi> and <hi>Wapping, Toolies-ſtreet, Barnaby-ſtreet,</hi> and St. <hi>Thomas</hi> Apoſtle. Firſt for <hi>Weſtminſter,</hi> if the wind blew nothernly, then they were to begin at the next houſe to the Palſgraves-head Tavern, where the Jeſuits and their Agents were to carry on the Fire to the <hi>Savoy;</hi> and then the Benedictines and they, to carry it on both ſides to <hi>Charing-Croſs;</hi>
+                  <pb n="49" facs="tcp:43679:32"/>and then the Fire was by them and their Agents to be car<g ref="char:EOLhyphen"/>ried to <hi>Whitehall:</hi> and neer the end of the Stone-gallery another Company is to begin and carry it on to <hi>Kings-ſtreet</hi> and <hi>Channel-Row;</hi> which was firſt deſigned to be acted in the time of the great Froſt, in the year 1676; but then they were not aſſured of the French Kings aſſiſtance, of which they are now aſſured by <hi>Leſhee,</hi> the French Kings Confeſſor. At the ſame time <hi>Wapping,</hi> and the Ships in the River, were to be burnt: and the ſaid Fire (in caſe the Wind blow up the River) is to begin at a place neer <hi>Bugbies-hole</hi> or <hi>Limehouſe-hole,</hi> and is to be carried on by four men (of whom they had made choice) to <hi>Wapping</hi> middle-ſtairs, and then four or five more were to carry it up higher. And the Deponent found himſelf, with ſeven more, ordered to ply about the <hi>Armitage;</hi> and his buſi<g ref="char:EOLhyphen"/>neſs was to encourage the ſeven men committed to his care; and for his reward One thouſand pound was therein promiſed him, beſides Eighty pound for his former ſervi<g ref="char:EOLhyphen"/>ces. But the Deponent ſaith, if the Wind ſtood contrary, they were to change the Commencement of the Fire. At the ſame time others were to have the Charge in <hi>Barnaby-ſtreet, Toolies-ſtreet,</hi> and St. <hi>Thomas</hi> Apoſtles on the other ſide of the Water, committed to them; and the Fire was to begin at <hi>Redriff</hi> when it was begun on <hi>Wapping</hi>-ſide: And this is to be done when the Water is low, that the Ships might not get off from the Keys. In order to the Deponents managing that part of the Fire that was to be begun about the <hi>Armitage,</hi> he was ordered to remove his Lodging into <hi>Wapping</hi> as ſoon as order was given him, and he ſhould have a Prieſt come and ſay Maſs unto him in his Chamber every day for a good ſucceſs on the Deſigne. But the Deponent ſaith, he did not know he was to be an Agent in the buſineſs, till he ſaw that Paper; which Paper was ſigned by the Provincial <hi>Tho. White,</hi> in the name of the whole Society.</p>
+            </div>
+            <div n="72" type="part">
+               <pb n="50" facs="tcp:43679:33"/>
+               <head>LXXII <hi>Item.</hi>
+               </head>
+               <p>That the Deponent ſaith, the Pope hath iſſued out a Bull, a Copy of which <hi>Blundell</hi> ſhewed the Deponent on the ſaid 30th of <hi>Auguſt;</hi> and as neer as the Deponent doth remember, it bears date either the month of <hi>November</hi> or <hi>December</hi> laſt; in which the Pope hath been pleaſed to or<g ref="char:EOLhyphen"/>der and diſpoſe of Biſhopricks of <hi>England,</hi> and other Digni<g ref="char:EOLhyphen"/>ties of the ſame, as followeth.</p>
+               <list>
+                  <head>ARCHBISHOPS.</head>
+                  <item>
+                     <hi>Canterbury.</hi> Cardinal <hi>Howard,</hi> with an Augmentation of 40000 crowns <hi>per annum,</hi> for the maintenance of his Legantine Authority.</item>
+                  <item>
+                     <hi>York. Perrott,</hi> Superiour of the Secular Prieſts: he hath power of Probats of Wills, Licenſes for Marriage, and all Epiſcopal Juriſdiction; Ordination and Confirma<g ref="char:EOLhyphen"/>tion onely excepted.</item>
+               </list>
+               <list>
+                  <head>BISHOPS.</head>
+                  <item>
+                     <hi>London. Corker,</hi> Preſident of the Benedictines.</item>
+                  <item>
+                     <hi>Wincheſter. White,</hi> Provincial of the Jeſuits.</item>
+                  <item>
+                     <hi>Durham Strange,</hi> laſt Provincial of the Jeſuits.</item>
+                  <item>
+                     <hi>Salisbury.</hi> Dr. <hi>Godden.</hi>
+                  </item>
+                  <item>
+                     <hi>Norwich. Napper,</hi> a <hi>Franciſcan</hi> Fryar.</item>
+                  <item>
+                     <hi>Ely. Vincent,</hi> Provincial of the Dominicans.</item>
+                  <item>
+                     <hi>Exceter. Wolfe,</hi> one of the Sorbon.</item>
+                  <item>
+                     <hi>Peterborough. Gifford,</hi> a Dominican.</item>
+                  <pb n="51" facs="tcp:43679:33" rendition="simple:additions"/>
+                  <item>
+                     <hi>Lincoln.</hi> Sir <hi>John Warner</hi> Baronet, a Jeſuit, and Confeſ<g ref="char:EOLhyphen"/>ſor to Lord <hi>Powis.</hi>
+                  </item>
+                  <item>
+                     <hi>Chicheſter. Morgan,</hi> a Jeſuit.</item>
+                  <item>
+                     <hi>Bath and Wells.</hi> Dr. <hi>Armſtrong,</hi> a <hi>Franciſcan</hi> Fryar.</item>
+                  <item>
+                     <hi>Carliſle. Wilmot,</hi> alias <hi>Quarterman,</hi> a Secular Prieſt.</item>
+                  <item>
+                     <hi>Cheſter. Thimbleby,</hi> a Secular Prieſt, now Canon of <hi>Cambray.</hi>
+                  </item>
+                  <item>
+                     <hi>Hereford.</hi> Sir <hi>Thomas Preſton</hi> Baronet, a Jeſuit.</item>
+                  <item>
+                     <hi>Briſtol. Mundſon,</hi> a Dominican.</item>
+                  <item>
+                     <hi>Oxon. Williams,</hi> Rector of <hi>Watton,</hi> and Maſter of the Novices, a Jeſuit: He is alſo to have the Deanery of <hi>Chriſt-Church,</hi> and is to preſide over the Profeſſors of Divinity in that Univerſity, and peruſe their Let<g ref="char:EOLhyphen"/>ters before they read them publickly.</item>
+                  <item>St. <hi>Davids. Belſon,</hi> a Secular Prieſt.</item>
+                  <item>St. <hi>Aſaph. Jones,</hi> a Secular.</item>
+                  <item>
+                     <hi>Bangor. Joſeph David Keimaſh,</hi> a Dominican Fryar.</item>
+               </list>
+               <list>
+                  <head>ABBOTS.</head>
+                  <item>
+                     <hi>Weſtminſter.</hi> Dr. <hi>Sheldon,</hi> a Benedictine Monk.</item>
+                  <item>
+                     <hi>Sion-houſe. Skinner,</hi> a Benedictine Monk.</item>
+               </list>
+               <list>
+                  <head>DEANS.</head>
+                  <item>
+                     <hi>Canterbury. Betton,</hi> a Sorboniſt.</item>
+                  <item>St. <hi>Pauls. Leybourn</hi> a Secular, and Secretary to the Cardinal.</item>
+                  <item>
+                     <hi>Windſor. Howard,</hi> with twelve Benedictine Canons.</item>
+                  <item>
+                     <hi>Chicheſter. Morgan,</hi> a Secular.</item>
+                  <item>
+                     <hi>Wincheſten</hi> Dr. <hi>Watkinſon,</hi> Preſident of the Engliſh Colledge at <hi>Lisbon.</hi>
+                  </item>
+               </list>
+               <pb n="52" facs="tcp:43679:34"/>
+               <p>Many Dignities of the Church, not here mentioned, are to be ſupplied with <hi>Spaniards</hi> and other Foreigners, becauſe they have not Clergy enough to be Profeſſors: Nor are there any Prebendaries or other places undiſpoſed. And in the ſame Bull it was ordered, That the Jeſuits ſhould read Philoſophy and Divinity in all great Towns and places where they had Colledges; but not give Degrees. And whilſt the Engliſh Jeſuits were employed in inſtructing Youth in Humanity and Philoſophy, and others reading Di<g ref="char:EOLhyphen"/>vinity, and preaching and catechiſing, they ſhould be ſup<g ref="char:EOLhyphen"/>plied with Spaniſh Jeſuits and other Foreigners, to aſſiſt them at the Altar, and in the care of the Colledges.</p>
+            </div>
+            <div n="73" type="part">
+               <head>LXXIII <hi>Item.</hi>
+               </head>
+               <p>That the Deponent on the ſecond of <hi>September,</hi> ſaw a Pacquet out of <hi>Scotland,</hi> directed to <hi>John Grove,</hi> dated <hi>Auguſt</hi> 10. 1678, in which the Fathers, met at <hi>Edinburgh,</hi> from thence did tell the Fathers here, That they had not much to write, but that Eight thouſand Catholicks were ready to riſe and aſſiſt, when the buſineſs ſhould grow hot; and would joyn with the diſaffected <hi>Scots,</hi> when required by the Scotch Jeſuits there. And in the ſaid Letter was mentioned, That one <hi>Weſtby</hi> was deſtroyed by one that was Servant to <hi>Lovel</hi> the Jeſuit, for endeavouring to de<g ref="char:EOLhyphen"/>tect the Rebellion, with its Authors and Contrivers, to the Council in <hi>Scotland.</hi>
+               </p>
+            </div>
+            <div n="74" type="part">
+               <pb n="53" facs="tcp:43679:34"/>
+               <head>LXXIV. <hi>Item.</hi>
+               </head>
+               <p>That the Deponent ſaw on the ſaid Second of <hi>September Old Stile,</hi> Letters of the forth <hi>New Stile</hi> from St. <hi>Omers,</hi> Writ<g ref="char:EOLhyphen"/>ten and Subſcribed by <hi>Thomas White</hi> Provincial; in which, Notice was given to <hi>Rirchard Blundel,</hi> to whom they were directed; that Twelve <hi>Scotch</hi> Jeſuites were ſent into <hi>Scotland</hi> by order from the General of the Society, and have One Thouſand pound given them by <hi>Laſhee</hi> the <hi>French</hi> Kings Confeſſor, to keep up the Commotions in <hi>Scotland,</hi> that the <hi>French</hi> King might Land an Army: And that the ſaid <hi>Jeſuits</hi> had Inſtructions given them to carry them<g ref="char:EOLhyphen"/>ſelves like <hi>Nonconformiſt</hi>-Miniſters amongſt the <hi>Presbyterian-Scots.</hi>
+               </p>
+            </div>
+            <div n="75" type="part">
+               <head>LXXV. <hi>Item.</hi>
+               </head>
+               <p>That on the Third of <hi>September,</hi> the Deponent ſaw a Letter from the Provincial at St. <hi>Omers,</hi> Dated <hi>December</hi> Firſt, by which the Deponent did perceive, that though the Let<g ref="char:EOLhyphen"/>ter were Dated from thence, yet it came not from thence, becauſe it was <hi>Old Stile;</hi> and did believe, that the ſaid Pro<g ref="char:EOLhyphen"/>vincial was then in <hi>England.</hi> And in this Letter directed to <hi>Blundel,</hi> it was ſpecified, that the Provincial was infor<g ref="char:EOLhyphen"/>med of ſome Diſcovery that was made, at which he was ſomwhat ſurpriſed. But upon ſecond Thoughts, he orde<g ref="char:EOLhyphen"/>red the ſaid <hi>Blundel,</hi> not to deſiſt the buſineſs in hand, but to write to <hi>Bedingfield</hi> not to take notice of what <hi>Keines</hi> ſaid; it being but a Conjecture of his own. And the ſaid <hi>Blundel</hi> did on the third day write to <hi>Bedingfield,</hi> and did adviſe him of the Provincialls thoughts concerning what had paſſed about that Concern. And in the Letter of the Pro<g ref="char:EOLhyphen"/>vincial to <hi>Blundel,</hi> it was ordered by the ſaid Provincial, <hi>That thanks ſhould be given to Doctor</hi> Fogarthy <hi>for his Care in the buſineſs of Forty Fight</hi> (which is the KING) <hi>and for his for<g ref="char:EOLhyphen"/>wardneſs to aſſiſt thoſe in</hi> Ireland: and ordered Letters to be
+<pb n="54" facs="tcp:43679:35"/>written with all ſpeed into <hi>Ireland</hi> to give them his thanks, and to tell them, <hi>That he would not ceaſe to pray for their good ſucceſs.</hi>
+               </p>
+            </div>
+            <div n="76" type="part">
+               <head>LXXVI. <hi>Item.</hi>
+               </head>
+               <p>That the Provincial came to <hi>London</hi> the third day at night; and the Deponent went to the Provincialls Lodgings, and was ordered to wait on him the next day in the mor<g ref="char:EOLhyphen"/>ning.</p>
+            </div>
+            <div n="77" type="part">
+               <head>LXXVII <hi>Item.</hi>
+               </head>
+               <p>That the Deponent went on the Fourth of <hi>September</hi> in the morning, according to the aforeſaid Order given him o<g ref="char:EOLhyphen"/>ver Night; and when the Provincial ſaw the Deponent, he asked him, <hi>With what face he could look on him, ſince he had played ſuch a treacherous trick with them?</hi> And ſtruck the Depo<g ref="char:EOLhyphen"/>nent three blows with his ſtick, and a box on the Ear; and charged him with being with the KING, and a Mi<g ref="char:EOLhyphen"/>niſter with him, whom he ſuſpected to have informed the KING of thoſe things; becauſe that <hi>Bedingfield</hi> had Rela<g ref="char:EOLhyphen"/>ted in a Letter to <hi>Blundel,</hi> that the Duke of <hi>York</hi> had re<g ref="char:EOLhyphen"/>lated ſome ſuch thing to him; and did therefore judg that it muſt be the Deponent that muſt have been drawn in by ſome perſons to the ſame. But at laſt the Provin<g ref="char:EOLhyphen"/>cial told the Deponent, that he was willing to be re<g ref="char:EOLhyphen"/>conciled to him, if he would diſcover what the Parſon was, his Name and place of Abode, to the end they might be ſecure of him; and were reſolved to kill him. And in the mean time the Deponent was ordered to make himſelf ready to go beyond the Seas within fourteen days, as he the Provincial ſaid. And that the Deponent might not Cheat them, they were to pay for his Coach<g ref="char:EOLhyphen"/>hire, and ordered his Entertainment at <hi>Sittingburn,</hi> and in other places upon the Road to <hi>Dover,</hi> and there Mr. <hi>Con<g ref="char:EOLhyphen"/>yers,</hi> Maſter of the <hi>Kings-Head,</hi> was to pay for his paſſage to
+<pb n="55" facs="tcp:43679:35"/>
+                  <hi>Callice;</hi> and the Maſter of the <hi>Feathers</hi> in <hi>Callice</hi> to pay for his Paſſage to St. <hi>Omers,</hi> where the Deponent was to Re<g ref="char:EOLhyphen"/>main till further Order from the Provincial. And <hi>Richard Blundel</hi> was to take care of carrying on the Fire in <hi>Wapping</hi> in the Deponents room.</p>
+            </div>
+            <div n="78" type="part">
+               <head>LXXVIII. <hi>Item.</hi>
+               </head>
+               <p>That on the <hi>Sixth</hi> of <hi>September,</hi> Mr. <hi>Pickering</hi> told the Deponent, that <hi>Conyers</hi> was gone for <hi>Windſor;</hi> and he ſaid, that after <hi>Ten</hi> Days ſtay there, he would go to the Lord <hi>Brudenals</hi> Houſe.</p>
+            </div>
+            <div n="79" type="part">
+               <head>LXXIX. <hi>Item.</hi>
+               </head>
+               <p>That at night the Deponent attending at the door of the Provincial, and about to go in, heard <hi>White,</hi> and ſome o<g ref="char:EOLhyphen"/>thers (whom the Deponent ſuppoſed by their Voices to be Mr. <hi>Mico,</hi> and one Mr. <hi>Poole</hi>) conſulting about the diſpo<g ref="char:EOLhyphen"/>ſing of a Perſon, whom the Deponent ſuppoſes to be him<g ref="char:EOLhyphen"/>ſelf. Their Words were theſe:</p>
+               <p>
+                  <hi>This Man hath Betrayed us, and therefore we will give a Coach-man</hi> Twenty Pound <hi>to take him up, and Carry him directly to</hi> Rocheſter <hi>to Eſquire</hi> Lees <hi>Houſe, who lives near the Town; and from thence to</hi> Dover, <hi>by ſome By-way, be<g ref="char:EOLhyphen"/>cauſe he is acquainted at</hi> Sittingburn; <hi>and ſaid, that if they could but get him on the other Side of the Water, they would tor<g ref="char:EOLhyphen"/>ment him till he had confeſſed to them, who it was that had been with the KING, and Informed Him of the buſineſs.</hi>
+               </p>
+               <p>When the Deponent heard theſe Words, he went down the Stairs with all the ſpeed he could make, and durſt not return to his lodgings that night, but lay in another place.</p>
+            </div>
+            <div n="80" type="part">
+               <pb n="56" facs="tcp:43679:36"/>
+               <head>LXXX. <hi>Item.</hi>
+               </head>
+               <p>That the Deponent, on the <hi>Seventh</hi> of <hi>September</hi> at night, returned to his lodging, where he intended not to lye; but only to take ſome Neceſſaries for his uſe the next day; but meeting with one <hi>Grigſon</hi> a <hi>Papiſt,</hi> at whoſe houſe he had formerly lodged, near the <hi>Red-Lyon</hi> in <hi>Drury-Lane,</hi> who told him, <hi>the</hi> Jeſuits <hi>were diſpleaſed with him, becauſe he had not anſwered their Expectations, in being true to them; and that the</hi> Je<g ref="char:EOLhyphen"/>ſuits <hi>were dangerous perſons, and would ruin him</hi> (the Deponent) <hi>if they could.</hi>
+               </p>
+               <p>And the ſaid <hi>Grigſon</hi> ſaid further, <hi>That he had known their Roguery theſe Twelve or Fourteen Years.</hi>
+               </p>
+               <p>And the Deponent being, through Diſcourſe, detain<g ref="char:EOLhyphen"/>ed by the ſaid <hi>Grigſon,</hi> was forced to lye in his lodg<g ref="char:EOLhyphen"/>ing in <hi>Drury-Lane;</hi> and when he was lain down in his bed, one <hi>Stratford</hi> (a Perſon utterly unknown to the Deponent, and whom he never diſcourſed or any way provoked) endea<g ref="char:EOLhyphen"/>voured to break open the houſe where the Deponent lay; and did break down a door to get into his lodging, but was forced to Retreat, becauſe he law himſelf obſerved by ſome of the ſervants of the houſe.</p>
+               <p>And when he ſaw he could not come to Aſſaſſinate him (as the Deponent verily believes) he Reviled him, and broke ſeveral Quarries of Glaſs in a Window, un<g ref="char:EOLhyphen"/>der the lodgings of the Deponent.</p>
+               <p>And therefore being verily perſwaded, that the ſaid <hi>Stratford</hi> was Imployed by the ſaid <hi>Jeſuits</hi> to do him a miſ<g ref="char:EOLhyphen"/>chief, made his eſcape thence early on Sunday Morning; and did not return thither again, becauſe the ſaid <hi>Strat<g ref="char:EOLhyphen"/>ford</hi> threatned to Kill him. Now, the houſe in which the Deponent lay, Was a School, where the within-men<g ref="char:EOLhyphen"/>tioned <hi>Blundel</hi> uſed to Catechize every Sunday in the Af<g ref="char:EOLhyphen"/>ternoon.</p>
+            </div>
+            <div n="81" type="part">
+               <pb n="57" facs="tcp:43679:36"/>
+               <head>LXXXI. <hi>Item.</hi>
+               </head>
+               <p>The <hi>Eighth</hi> day, being Sunday, whilſt that the Depo<g ref="char:EOLhyphen"/>nent was going to attend the publique Worſhip of God in the City, a <hi>Papiſt,</hi> who goes by the Name of <hi>Nevil,</hi> as the Deponent remembers, met him in the <hi>Strand,</hi> and told him:</p>
+               <p>
+                  <hi>That there was a very great Murmuring amongſt the</hi> Jeſuits <hi>againſt him, becauſe of a Complaint that was made againſt them by ſome Perſons, of whom they ſuſpected him to be one.</hi>
+               </p>
+               <p>And ſaid further; <hi>That the Deponent muſt either deſtroy the</hi> Jeſuits, <hi>or the</hi> Jeſuits <hi>deſtroy the Deponent.</hi>
+               </p>
+               <p>And told him Moreover; <hi>That the Biſhop of</hi> Rocheſter <hi>was made acquainted with the Complaint, and would lead them ſuch a dance as they never followed ſince the Fool their Founder ap<g ref="char:EOLhyphen"/>peared in the World.</hi>
+               </p>
+               <p>To which the Deponent made no Reply, ſuſpecting this Perſon to be a Trappan; and when at parting, he asked the Deponent <hi>Where he Lodged?</hi> the Deponent gave him not that account as he deſired.</p>
+            </div>
+         </div>
+         <div type="list">
+            <pb n="58" facs="tcp:43679:37"/>
+            <head>A Liſt of ſuch Noble-men and Gentry, as are in this Conſpiracy, whoſe Names occur at preſent.</head>
+            <list>
+               <item>LOrd <hi>Arundel</hi> of <hi>Wardour</hi> Lord Chancellor.</item>
+               <item>Lord <hi>Powis</hi> Lord high Treaſurer of <hi>England.</hi>
+               </item>
+               <item>Sr. <hi>William Godolphin</hi> Lord privy Seal.</item>
+               <item>
+                  <hi>Coleman</hi> Secretary of State.</item>
+               <item>
+                  <hi>Stafford.</hi>
+               </item>
+            </list>
+            <p>The Sea-Officers were named to the Deponent, but their Names being moſt <hi>French</hi> and ſome <hi>Iriſh,</hi> occur not.</p>
+            <list>
+               <head>Militia.</head>
+               <item>Lord <hi>Bellaſis</hi> Lord General.</item>
+               <item>Lord <hi>Peters</hi> Lieutenant General.</item>
+               <item>Sr. <hi>Francis Radcliff</hi> Major General.</item>
+               <item>
+                  <hi>John Lambert</hi> Adjutant General.</item>
+               <item>
+                  <hi>Langhorn,</hi> Advocate General.</item>
+               <item>Mr. <hi>Arundel</hi> of <hi>Wardour</hi> Commiſſary General.</item>
+            </list>
+            <p>All theſe had their Commiſſions or Patents ſtamped by the General of the Jeſuits <hi>Johannes Paulus d' Oliva,</hi> and ſent from <hi>Rome</hi> to <hi>Langhorn;</hi> and were delivered to them with pleniary Indulgences ſent alſo from <hi>Rome,</hi> and additional Patents ſtamped by the Provincials, <hi>Strange</hi> or <hi>VVhite: VVhite</hi> and his Seal are taken.</p>
+            <list>
+               <head>
+                  <hi>Collonels,</hi> Who have their Commiſſions from the <hi>Provincial.</hi>
+               </head>
+               <item>Lord <hi>Baltimore,</hi> Collonel of Horſe; at whoſe Lodgings
+<pb n="59" facs="tcp:43679:37"/>
+                  <hi>Five Hundred</hi> Caſe of Piſtols, <hi>&amp;c.</hi> were found, as is re<g ref="char:EOLhyphen"/>ported.</item>
+               <item>Collonel <hi>Thomas Howard,</hi> deceaſed, confeſſed he had re<g ref="char:EOLhyphen"/>ceived and accepted his Commiſſion.</item>
+               <item>
+                  <hi>Laſſels, Roper, VVinter</hi> or <hi>VVitter,</hi> received their Commiſ<g ref="char:EOLhyphen"/>ſions from the Deponent, and accepted them.</item>
+            </list>
+            <list>
+               <head>Captains.</head>
+               <item>
+                  <hi>Roper,</hi> Son to the Collonel afore-named; <hi>Radciff</hi> 
+                  <abbr>Eſq</abbr> 
+                  <hi>Medburn,</hi> the Player; <hi>Penny, Caryl</hi> Junior, <hi>Townly,</hi> did alſo receive their Commiſſions from the Informant, and accept<g ref="char:EOLhyphen"/>ed them.</item>
+               <item>Sir <hi>George VVakeman,</hi> Phyſitian to the Army.</item>
+            </list>
+            <list>
+               <head>Iriſh Officers.</head>
+               <item>Lord <hi>Legate,</hi> Biſhop of <hi>Caſſal</hi> in <hi>Italy.</hi>
+               </item>
+               <item>
+                  <hi>Peter Talbot,</hi> Lord Chancellor.</item>
+               <item>
+                  <hi>Richard Talbot,</hi> 
+                  <abbr>Eſq</abbr> Lord General.</item>
+               <item>Viſcount <hi>Mountgarret,</hi> Lieutenant-General; His Office to be Executed by Mr. <hi>Butler</hi> his Son.</item>
+               <item>
+                  <hi>John Pipard,</hi> 
+                  <abbr>Eſq</abbr> Collonel.</item>
+            </list>
+            <p>
+               <hi>Note,</hi> That the Major Part of the Collonels appointed for the <hi>Engliſh</hi>-Army, are alſo <hi>Iriſh.</hi>
+            </p>
+            <p>Note alſo, That Mr. <hi>Pierſon,</hi> Secretary to the Lord <hi>Powis.</hi> did in the Informant's Preſence, promiſe on the Behalf of his Lord, that he ſhould raiſe and furniſh <hi>Three Hundred</hi> Horſe, and had <hi>Three Hundred</hi> Armed Men, ready to riſe in leſs than <hi>Twenty Four</hi> Hours. Theſe Words were ſpo<g ref="char:EOLhyphen"/>ken a little aſter the Conſult, to <hi>White</hi> the Provincial, at <hi>Wild-Houſe.</hi>
+            </p>
+            <p>The ſaid Lord <hi>Powis</hi> hath alſo Contributed <hi>Three Hundred</hi> Pound, towards the <hi>Jeſuits</hi> Deſign.</p>
+            <p>
+               <hi>Note,</hi> That Lord <hi>Stafford</hi> is a principal Officer of State, and a chief Conſpirator; having Contributed ſeveral Sums of Money, not remembred by the Deponent.</p>
+         </div>
+         <div type="list">
+            <pb n="60" facs="tcp:43679:38"/>
+            <head>The Names of the Conſpirators.</head>
+            <list>
+               <head>Benedictines.</head>
+               <item>Mr. <hi>Howard,</hi> at <hi>Doway.</hi>
+               </item>
+               <item>Mr. <hi>Hitchcock,</hi> at <hi>Doway.</hi>
+               </item>
+               <item>Mr <hi>Reaves,</hi> at <hi>Doway.</hi>
+               </item>
+               <item>Mr. <hi>Anderton,</hi> in <hi>England.</hi>
+               </item>
+               <item>Mr. <hi>Conyers,</hi> in <hi>England.</hi>
+               </item>
+               <item>Mr. <hi>Rumly,</hi> in <hi>England.</hi>
+               </item>
+               <item>Mr. <hi>Corker,</hi> in <hi>England.</hi>
+               </item>
+               <item>Mr. <hi>Skinner,</hi> in <hi>England.</hi>
+               </item>
+               <item>Mr. <hi>Crosby,</hi> in <hi>England.</hi>
+               </item>
+            </list>
+            <list>
+               <head>Carmelites.</head>
+               <item>Dr. <hi>Handſon,</hi> in <hi>England.</hi>
+               </item>
+               <item>Mr. <hi>Trevers,</hi> in <hi>England.</hi>
+               </item>
+               <item>Mr. <hi>Kimball,</hi> in <hi>England.</hi>
+               </item>
+            </list>
+            <list>
+               <head>Franciſcans.</head>
+               <item>Dr. <hi>Armſtrong,</hi>
+               </item>
+               <item>Mr. <hi>Napper,</hi>
+               </item>
+            </list>
+            <list>
+               <head>Dominicans.</head>
+               <item>
+                  <hi>David Joſeph Keimaſh,</hi> in <hi>Eng<g ref="char:EOLhyphen"/>land.</hi>
+               </item>
+               <item>Mr. <hi>Dominick,</hi> in <hi>Eng<g ref="char:EOLhyphen"/>land.</hi>
+               </item>
+               <item>Mr. <hi>Collins,</hi> in <hi>Eng<g ref="char:EOLhyphen"/>land.</hi>
+               </item>
+               <item>Mr. <hi>Vincent,</hi> in <hi>Eng<g ref="char:EOLhyphen"/>land.</hi>
+               </item>
+               <item>Mr. <hi>Fidding,</hi> in <hi>Eng<g ref="char:EOLhyphen"/>land.</hi>
+               </item>
+               <item>Mr. <hi>Manſell,</hi> in <hi>Eng<g ref="char:EOLhyphen"/>land.</hi>
+               </item>
+               <item>Mr. <hi>Lumſdale,</hi> in <hi>Eng<g ref="char:EOLhyphen"/>land.</hi>
+               </item>
+               <item>Mr. <hi>Bingly,</hi> in <hi>Eng<g ref="char:EOLhyphen"/>land.</hi>
+               </item>
+               <item>Mr. <hi>Cooper</hi> at <hi>Rome.</hi>
+               </item>
+               <item>Mr. <hi>Munſon</hi> in <hi>England.</hi>
+               </item>
+            </list>
+            <list>
+               <head>Jeſuits.</head>
+               <item>
+                  <hi>Eng<g ref="char:EOLhyphen"/>land. Tho. White</hi> Provincial.</item>
+               <item>
+                  <hi>Eng<g ref="char:EOLhyphen"/>land. Rich. Strange</hi> late Provincial.</item>
+               <item>
+                  <hi>Eng<g ref="char:EOLhyphen"/>land. Rich. Aſhby</hi> alias <hi>Thimbleby.</hi>
+               </item>
+               <item>
+                  <hi>Eng<g ref="char:EOLhyphen"/>land. Mr. Harcourt</hi>
+               </item>
+               <item>
+                  <hi>Eng<g ref="char:EOLhyphen"/>land. Mr. Jenniſon</hi>
+               </item>
+               <item>
+                  <hi>Eng<g ref="char:EOLhyphen"/>land. Mr. Keines</hi>
+               </item>
+               <item>
+                  <hi>Eng<g ref="char:EOLhyphen"/>land. Mr. Wright</hi>
+               </item>
+               <item>
+                  <hi>Eng<g ref="char:EOLhyphen"/>land. Mr. Blundel</hi>
+               </item>
+               <item>
+                  <hi>Mr. Pennington</hi> in <hi>Eng<g ref="char:EOLhyphen"/>land.</hi>
+               </item>
+               <item>
+                  <hi>Mr. Gray Mr. Pool</hi> in <hi>Eng<g ref="char:EOLhyphen"/>land.</hi>
+               </item>
+               <item>
+                  <hi>Mr. Mico</hi> in <hi>Eng<g ref="char:EOLhyphen"/>land.</hi>
+               </item>
+               <item>
+                  <hi>Mr. Bennyfield</hi> in <hi>Eng<g ref="char:EOLhyphen"/>land.</hi>
+               </item>
+               <item>
+                  <hi>Mr. Simmons</hi> in <hi>Eng<g ref="char:EOLhyphen"/>land.</hi>
+               </item>
+               <item>
+                  <hi>Mr. Langworth</hi> in <hi>Eng<g ref="char:EOLhyphen"/>land.</hi>
+               </item>
+               <item>
+                  <hi>Mr. Morgan</hi> in <hi>Eng<g ref="char:EOLhyphen"/>land.</hi>
+               </item>
+               <item>
+                  <hi>Mr. Rich. Peters</hi> in <hi>Eng<g ref="char:EOLhyphen"/>land.</hi>
+               </item>
+               <item>
+                  <hi>Mr. Dorrington</hi> in <hi>Eng<g ref="char:EOLhyphen"/>land.</hi>
+               </item>
+               <item>
+                  <hi>Mr. Lacy</hi> in <hi>Eng<g ref="char:EOLhyphen"/>land.</hi>
+               </item>
+               <item>
+                  <hi>Mr. Vanghan</hi> in <hi>Eng<g ref="char:EOLhyphen"/>land.</hi>
+               </item>
+               <item>
+                  <hi>Mr. Ewry</hi> in <hi>Eng<g ref="char:EOLhyphen"/>land.</hi>
+               </item>
+               <item>
+                  <hi>Mr. Conyers</hi> in <hi>Eng<g ref="char:EOLhyphen"/>land.</hi>
+               </item>
+               <item>
+                  <hi>Jo. Peters</hi> in <hi>Eng<g ref="char:EOLhyphen"/>land.</hi>
+               </item>
+               <item>
+                  <hi>Mr. Wilkinſon</hi> in <hi>Eng<g ref="char:EOLhyphen"/>land.</hi>
+               </item>
+               <item>
+                  <hi>Mr. VVolf</hi> in <hi>Eng<g ref="char:EOLhyphen"/>land.</hi>
+               </item>
+               <item>
+                  <hi>Sir Tho Preſton</hi> at <hi>Leige.</hi>
+               </item>
+               <item>
+                  <hi>Mr. Saunders</hi> at <hi>Leige.</hi>
+               </item>
+               <item>
+                  <hi>Sir Jo. Warner</hi> at <hi>Watton.</hi>
+               </item>
+               <item>Mr. <hi>Williams</hi> at <hi>Watton.</hi>
+               </item>
+               <item>Mr. <hi>Eggleſton</hi> at <hi>Watton.</hi>
+               </item>
+               <item>Mr. <hi>Janion</hi> at <hi>Watton.</hi>
+               </item>
+               <item>Mr. <hi>Crane</hi> at <hi>Watton.</hi>
+               </item>
+               <item>
+                  <hi>Sir Pob. Bret</hi> at St. <hi>Omers.</hi>
+               </item>
+               <item>
+                  <hi>Tho. Stapleton</hi> at St. <hi>Omers.</hi>
+               </item>
+               <item>
+                  <hi>Tho. Fermour</hi> at St. <hi>Omers.</hi>
+               </item>
+               <item>
+                  <hi>Tho. Ditchling</hi> at St. <hi>Omers.</hi>
+               </item>
+               <item>
+                  <hi>Edw. Hall</hi> at St. <hi>Omers.</hi>
+               </item>
+               <item>Mr. <hi>Cannel</hi> at St. <hi>Omers.</hi>
+               </item>
+               <item>
+                  <hi>Charles Peters</hi> at St. <hi>Omers.</hi>
+               </item>
+               <item>Mr. <hi>Nevile</hi> at St. <hi>Omers.</hi>
+               </item>
+               <item>Mr. <hi>Conſtable</hi> at St. <hi>Omers.</hi>
+               </item>
+               <item>Mr. <hi>Sabrand</hi> at St. <hi>Omers.</hi>
+               </item>
+               <item>Mr. <hi>Walter</hi> at St. <hi>Omers.</hi>
+               </item>
+               <item>Mr. <hi>Roper</hi> at St. <hi>Omers.</hi>
+               </item>
+            </list>
+            <pb n="61" facs="tcp:43679:38"/>
+            <list>
+               <head>JESUITS.</head>
+               <item>M<hi rend="sup">r</hi> 
+                  <hi>Marſh</hi> at <hi>Ghent.</hi>
+               </item>
+               <item>M<hi rend="sup">r</hi> 
+                  <hi>Blake,</hi> alias <hi>Groſs</hi> in <hi>Spain.</hi>
+               </item>
+               <item>M<hi rend="sup">r</hi> 
+                  <hi>Mundford</hi> Vore<g ref="char:punc">▪</g> in <hi>Spain.</hi>
+               </item>
+               <item>
+                  <hi>Armſtrong,</hi>
+               </item>
+               <item>M<hi rend="sup">r</hi> 
+                  <hi>Cary</hi> at <hi>Rome.</hi>
+               </item>
+            </list>
+            <list>
+               <head>Engliſh JESUITS in SCOTLAND.</head>
+               <item>M<hi rend="sup">r</hi> 
+                  <hi>Lovel.</hi>
+               </item>
+               <item>M<hi rend="sup">r</hi> 
+                  <hi>Saunders.</hi>
+               </item>
+               <item>M<hi rend="sup">r</hi> 
+                  <hi>Moore.</hi>
+               </item>
+            </list>
+            <p>Twelve Scotch JESUITS lately gone into <hi>Scotland,</hi> whoſe names I know not, but I know their perſons.</p>
+            <list>
+               <head>Secular Perſons.</head>
+               <item>D<hi rend="sup">r</hi> 
+                  <hi>Fogarthy,</hi>
+               </item>
+               <item>Sir <hi>George Wakeman,</hi>
+               </item>
+               <item>M<hi rend="sup">r</hi> 
+                  <hi>Coleman,</hi>
+               </item>
+               <item>
+                  <hi>John Groves.</hi>
+               </item>
+               <item>Four Iriſh Ruffians.</item>
+            </list>
+            <list>
+               <head>Lay-Brothers.</head>
+               <item>
+                  <hi>Pickering,</hi>
+               </item>
+               <item>
+                  <hi>Smith.</hi>
+               </item>
+            </list>
+            <list>
+               <head>Theſe Fourteen Secular Prieſts I have only by In<g ref="char:EOLhyphen"/>formation from <hi>Thomas Whitebread.</hi>
+               </head>
+               <item>M<hi rend="sup">r</hi> 
+                  <hi>Perrot,</hi> In <hi>England.</hi>
+               </item>
+               <item>M<hi rend="sup">r</hi> 
+                  <hi>Morgan,</hi> In <hi>England.</hi>
+               </item>
+               <item>M<hi rend="sup">r</hi> 
+                  <hi>Wilmot,</hi> In <hi>England.</hi>
+               </item>
+               <item>D<hi rend="sup">r</hi> 
+                  <hi>Godden,</hi> In <hi>England.</hi>
+               </item>
+               <item>M<hi rend="sup">r</hi> 
+                  <hi>Jones</hi> Senior, In <hi>England.</hi>
+               </item>
+               <item>M<hi rend="sup">r</hi> 
+                  <hi>Jones</hi> Junior, In <hi>England.</hi>
+               </item>
+               <item>M<hi rend="sup">r</hi> 
+                  <hi>Gerard,</hi> In <hi>England.</hi>
+               </item>
+               <item>M<hi rend="sup">r</hi> 
+                  <hi>Henrique,</hi> In <hi>England.</hi>
+               </item>
+               <item>M<hi rend="sup">r</hi> 
+                  <hi>Fiſher,</hi> In <hi>England.</hi>
+               </item>
+               <item>M<hi rend="sup">r</hi> 
+                  <hi>Jackſon.</hi> In <hi>England.</hi>
+               </item>
+               <item>M<hi rend="sup">r</hi> 
+                  <hi>Pinchard,</hi> In <hi>England.</hi>
+               </item>
+               <item>M<hi rend="sup">r</hi> 
+                  <hi>Sharp,</hi> In <hi>England.</hi>
+               </item>
+               <item>D<hi rend="sup">r</hi> 
+                  <hi>Bettam</hi> In <hi>England.</hi>
+               </item>
+               <item>M<hi rend="sup">r</hi> 
+                  <hi>Wolf</hi> in <hi>France</hi> at the <hi>Sorbon.</hi>
+               </item>
+            </list>
+            <list>
+               <head>Other Perſons.</head>
+               <item>Archbiſhop <hi>Talbot,</hi>
+               </item>
+               <item>Archbiſhop <hi>Lynce,</hi>
+               </item>
+               <item>
+                  <hi>Hierom Swiman,</hi>
+               </item>
+               <item>Sir <hi>William Godoſphin</hi> Lord Ambaſſador in <hi>Spain.</hi>
+               </item>
+            </list>
+         </div>
+         <div type="document">
+            <pb n="62" facs="tcp:43679:39"/>
+            <p>
+               <hi>Titus Oates</hi> Clerk maketh Oath, That the In<g ref="char:EOLhyphen"/>formation ſet down in theſe Papers, containing Eighty One Articles, all Written and ſubſcribed by his own Hand, are true in the whole, and e<g ref="char:EOLhyphen"/>very particular thereof, that is to ſay, that ſuch Particulars as he hath ſet down, to be ſeen, heard, done, or known by him, he knows to be true, and what he hath ſet down only to be heard by him, and related to him, were ſo heard and re<g ref="char:EOLhyphen"/>lated as he hath ſet them down, and he believes to be true:</p>
+            <closer>
+               <dateline>Witneſs his hand, <date>the 27<hi rend="sup">th</hi> day of Sept. 1678.</date>
+               </dateline>
+               <signed>TITUS OATES.</signed>
+            </closer>
+         </div>
+         <div type="document">
+            <head>SEPTEMBER 27. 1678.</head>
+            <p>Sworn before me Sir Edmund-Bury Godfrey, one of His Maje<g ref="char:EOLhyphen"/>ſties Juſtices of the Peace for the County of Middleſex.</p>
+            <closer>
+               <signed>
+                  <hi>Edm. B. Godfrey.</hi> Witneſſed, <hi>Ez. Tonge, Chr. Kirby.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="text">
+            <pb n="63" facs="tcp:43679:39"/>
+            <head>The General Deſign of the POPE, Society of JES<g ref="char:V">Ʋ</g>S, and their Confederates in this PLOT, is, the <hi>REFORMATION,</hi> that is, (in their ſenſe) the Reduction of <hi>GREAT BRITAIN</hi> and <hi>IRELAND,</hi> and all His Majeſties Dominions by the Sword (all other wayes and means being judged by them ineffectual) to the Romiſh Religion and Obedience. <hi>To effect this Deſign;</hi>
+            </head>
+            <p n="1">1. THe Pope hath Entitled himſelf to the King<g ref="char:EOLhyphen"/>domes of <hi>England</hi> and <hi>Ireland.</hi>
+            </p>
+            <p n="2">2. Sent his Legate the Bishop of <hi>Cassal</hi> in <hi>Italy</hi> into <hi>Ireland</hi> to declare his Title, and take poſſeſſion of that Kingdom.</p>
+            <p n="3">3. He hath appointed Cardinal <hi>Howard</hi> his Legat for <hi>England</hi> to the ſame purpoſe.</p>
+            <p n="4">4. He hath given Commiſſion to the General of the Jeſuites, and by him to <hi>White</hi> their Provincial in <hi>Eng<g ref="char:EOLhyphen"/>land</hi> to iſſue, and they have iſſued out, and given Com<g ref="char:EOLhyphen"/>miſſions to Captain Generals, Lieutenant Generals, <hi>&amp;c.</hi> namely, the General of the Jeſuites hath ſent Commiſ<g ref="char:EOLhyphen"/>ſions from <hi>Rome</hi> to <hi>Langhorn</hi> their Advocate-General for the Superiour Officers: And <hi>White</hi> hath given Com<g ref="char:EOLhyphen"/>miſſions here in <hi>England</hi> to Colonels, and inferiout Of<g ref="char:EOLhyphen"/>ficers.</p>
+            <p n="5">5. He hath by a Conſult of the Jeſuits of this Pro<g ref="char:EOLhyphen"/>vince Aſſembled at <hi>London,</hi> condemned His Majeſty, and ordered Him to be aſſaſſinated, <hi>&amp;c.</hi>
+            </p>
+            <pb n="64" facs="tcp:43679:40"/>
+            <p n="6">6. He hath Ordered, That in caſe the Duke of <hi>York</hi> will not accept theſe Crowns as forfeited by his Brother unto the Pope, as of his Gift, and ſettle ſuch Prelates and Dignitaries in the Church, and ſuch Officers in Commands and places Civil, Naval and Military, as he hath Commiſſioned as above, extirpate the Proteſtant Religion, and in order thereunto <hi>ex post facto,</hi> conſent to the aſſaſſination of the KING his Brother, Maſſacre of His Proteſtant Subjects, firing of his Towns, <hi>&amp;c.</hi> by pardoning the Aſſaſſins, Murderers and Incendiaries, that then he be alſo poyſoned or deſtroyed, after they have for ſome time abuſed His Name and Title to ſtrengthen their Plot, weakned and divided the King<g ref="char:EOLhyphen"/>doms of <hi>ENGLAND, SCOTLAND</hi> and <hi>IRE<g ref="char:EOLhyphen"/>LAND</hi> thereby in Civil Wars and Rebellions as in His Fathers Time, to make way for the <hi>French</hi> to ſeize theſe Kingdoms, and totally ruine their Infantry and Naval Force.</p>
+            <p>Beſides this Papal, there appears alſo another French Plot or Correſpondence carried on by Sir <hi>Ellis Lay<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>on,</hi> M<hi rend="sup">r</hi> 
+               <hi>Coleman</hi> and others.</p>
+            <p>More particularly,</p>
+            <list>
+               <item>1. The Royal Family of the <hi>STUARTS</hi> are condemned to be Cut off Root and Branch, and namely the KING, Duke of <hi>YORK</hi> and Prince of <hi>Orange,</hi> becauſe that Family hath not anſwered their expectati<g ref="char:EOLhyphen"/>ons, nor have they any hopes that any of them will com<g ref="char:EOLhyphen"/>ply fully with this, their bloody deſign, when fully diſ<g ref="char:EOLhyphen"/>covered to them.</item>
+               <item>1. The King perſon which ſtands in their way they more eſpecially, and in the firſt place deſign to re<g ref="char:EOLhyphen"/>move with all poſſible ſpeed, by Dagger, Piſtol or Poyſon.
+<list>
+                     <item>To Stabb Him, <hi>Conyers</hi> and <hi>Anderton</hi> Benedictine Monks, and Four Iriſh Ruffians are employed.</item>
+                     <item>To Shoot Him, <hi>Groves</hi> and <hi>Pickering</hi> are furniſh<g ref="char:EOLhyphen"/>ed with joynted Carabines.</item>
+                     <pb n="65" facs="tcp:43679:40"/>
+                     <item>To Poyſon him, Five Thouſand pound hath been told out, entred in their Books, and affirmed to be paid to Sir <hi>George Wakeman,</hi> in part of Fifteen Thou<g ref="char:EOLhyphen"/>ſand pound, upon a Contract made with him in preſence of Doctor <hi>Fogarthy</hi> and Mr. <hi>Coleman.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>2. The Duke of <hi>York,</hi> notwithſtanding they acknow<g ref="char:EOLhyphen"/>ledge his ſincerity and affection to their Religion, and the Society, and his demonſtration thereof by his ta<g ref="char:EOLhyphen"/>king <hi>Bedingfield</hi> a Jeſuit for his Confeſſor, they deſign to diſpoſe of him as is aboveſaid.</item>
+               <item>3. The Prince of <hi>Orange</hi> is alſo condemned and deſigned againſt by Name, and Twelve Miſſioners ſent into <hi>Holland</hi> have in charge to put that Peo<g ref="char:EOLhyphen"/>ple in Mutiny againſt his Perſon and Govern<g ref="char:EOLhyphen"/>ment.</item>
+               <item>4. The Conqueſt and ſubduing of his Majeſties Do<g ref="char:EOLhyphen"/>minions is deſigned and contrived in this manner.</item>
+            </list>
+            <div n="1" type="part">
+               <head>
+                  <hi>I.</hi> The Conqueſt of <hi>Ireland</hi> and ſubduing it to the Tyranny of the Pope and <hi>French.</hi>
+               </head>
+               <p n="1">1. By a general Rebellion and Maſſacre of the Pro<g ref="char:EOLhyphen"/>teſtants as formerly, which they term another Demon<g ref="char:EOLhyphen"/>ſtration of Zeal for the Catholick Faith: This to be done immediately upon the Aſſaſſination of the Duke of <hi>Ormond,</hi> as the Watch-word, for which four Jeſuits are employed.</p>
+               <p n="2">2. By the Popes Nuntio ſent thither, and Com<g ref="char:EOLhyphen"/>miſſions there given out by the Provincial of the <hi>Iriſh</hi> Jeſuits, <hi>&amp;c.</hi> to a General, Lieutenant-General, <hi>&amp;c.</hi>
+               </p>
+               <p n="3">3. By Arms and Money already ſent, whereof Eight hundred Thouſand Crowns by the Pope.</p>
+               <pb n="66" facs="tcp:43679:41"/>
+               <p n="4">4. By Traiterous Officers who are diſpenſed with by the Archbiſhop of <hi>Dublin</hi> and the Clergy there, to take the Oaths of Allegiance and Supremacy, upon promiſe to betray their Garriſons and other Truſts.</p>
+               <p n="5">5. By the Aſſiſtance of the <hi>French</hi> Forces to be landed there, and received by Twenty five thouſand <hi>Iriſh</hi> ready to joyn with them.</p>
+            </div>
+            <div n="2" type="part">
+               <head>
+                  <hi>II. England</hi> and <hi>Scotland</hi> are to be divided, weak<g ref="char:EOLhyphen"/>ned, waſted and exhauſted of their Infantry, Naval Force and Wealth, by Civil War, Rebellion, <hi>&amp;c.</hi> and finally expoſed to forreign Force of <hi>French,</hi> &amp;c.</head>
+               <p>To attain to this Deſign, they apply themſelves and Agents:</p>
+               <p n="1">1. By impudently Queſtioning and Denying the Kings Legitimation, and conſequently his preſent Right and Title to his Crown, and ſo expoſing him as a Ty<g ref="char:EOLhyphen"/>rant without Title.</p>
+               <p n="2">2. By Confuting and Weakening as much as poſſibly they can the Obligation of the Oath of <hi>Allegiance</hi> and <hi>Supremacy,</hi> cauſing them to be Renounced, rendring them very Odious, as Blaſphemous and Heretical, and terrifying all of their Communion from Writing for them, offering Money to have <hi>Berry</hi> the Prieſt mur<g ref="char:EOLhyphen"/>dered for writing in favour of them.</p>
+            </div>
+            <div n="3" type="part">
+               <pb n="67" facs="tcp:43679:41"/>
+               <head>
+                  <hi>III.</hi> By Diſaffecting the Kings beſt Friends at home and abroad, and Subjects, againſt his Perſon and Government.</head>
+               <p n="1">1. Charging him with Tyranny and Deſigns of Op<g ref="char:EOLhyphen"/>preſſing, Governing by the Sword, and without Par<g ref="char:EOLhyphen"/>liaments, and expoſing his mod faithful and valiant Sub<g ref="char:EOLhyphen"/>jects to be waſted and ſlain in foreign ſervice.</p>
+               <p n="2">2. By aſperſing, deriding, expoſing and declaiming againſt his Perſon, Counſels and Actions in Parliament and elſewhere; and particularly ſcoffing at his Securi<g ref="char:EOLhyphen"/>ty and Confidence in <hi>them,</hi> and by this means ani<g ref="char:EOLhyphen"/>mating and encouraging their Party and Aſſaſſins, eſpe<g ref="char:EOLhyphen"/>cially to attempt upon his Life, and to haſten his Ruine.</p>
+               <p n="3">3. By diſcloſing the Kings Counſels to <hi>France,</hi> by <hi>Coleman, Smith,</hi> and others.</p>
+               <p n="4">4. By miſ-reporting and raiſing falſe Newes of his Affairs, <hi>&amp;c.</hi>
+               </p>
+               <p n="5">5. By diſaffecting his Majeſties Allies, <hi>Holland, Spain,</hi> the <hi>German</hi> Emperour and Princes, by falſe Intelli<g ref="char:EOLhyphen"/>gence, <hi>&amp;c.</hi>
+               </p>
+               <p n="6">6. By diſturbing Trade.</p>
+               <p n="7">7. By ſeditious Preachers and Catechiſts ſet up, ſent out, maintained, and directed what to Preach in their own or other private or publick Conventicles and Field-meetings.</p>
+               <p n="8">8. By ſetting up pretended falſe Titles to the Suc<g ref="char:EOLhyphen"/>ceſſion of the Crown, and animating different Parties
+<pb n="68" facs="tcp:43679:42" rendition="simple:additions"/>one againſt another on this or ſuch like falſe pretences to Arm, and put the People in Blood upon the Kings Death.</p>
+               <p n="9">9. By Firing and Plundering our beſt Cities and Towns, by <hi>Iriſh, French,</hi> Lay-Brethren and others, diſguiſed in Frocks and otherwiſe, directed by Order under the Provincials hand how to carry on theſe Deſigns.</p>
+               <p n="10">10. By Poyſoning and Aſſaſſinating by pickt Quarrels or otherwiſe, thoſe whom they ſuppoſe to be ready or able to detect or otherwiſe obſtruct their Deſigns; of whom they keep Catalogues in their Books.</p>
+               <p n="11">11. By horrid, worſe than Jewiſh Intereſt, Tranſ<g ref="char:EOLhyphen"/>portation of Trading, People, Stock and Money, adulterating Money and Plate. To which ends they have Bankers, Brokers, Merchants, Goldſmiths and other Traders, whom they ſtock and ſet up with Money of their Society, of which they boaſt to have a Hundred thouſand pound Caſh, <hi>&amp;c.</hi>
+               </p>
+               <p n="12">12. By ſuborning Felons condemned, by <hi>Blundell</hi> their <hi>Newgate</hi> Ordinary, through hopes of Pardon or Tranſportation, to turn <hi>Papiſts,</hi> and then putting ſuch as they find fit and deſperate, on Firing Houſes, Plun<g ref="char:EOLhyphen"/>dering, and other wicked and miſchievous Deſigns.</p>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
